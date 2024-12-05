@@ -1,10 +1,12 @@
 setwd("C:/Users/momo_/OneDrive/Documents/GitHub/finalproject")
 library(tidyverse)
 library(sf)
+library(sp)
 library(janitor)
 library(jsonlite)
 library(rvest)
 library(dplyr)
+library(spdep)
 
 zippath <- "C:/Users/momo_/OneDrive/Documents/GitHub/finalproject"
 zip <- paste0(zippath, "/Boundaries - Neighborhoods.zip")
@@ -107,18 +109,88 @@ vacant_lot_housing_plot
 
 ggsave("vacant_lot_housing_plot.png", plot = vacant_lot_housing_plot, width = 6, height = 4, dpi = 300)
 
+#Step 3: I will run a spatial regression using socioeconomic data which helps me analyze the distribution of affordable housing developments and open lots across neighborhoods.
+
 
 #Importing the socioeconomic dataset for communities to see the socioeconomic status 
 socioec_data <- fromJSON("https://data.cityofchicago.org/resource/5kdt-irec.json") |>
   janitor::clean_names() |>
   rename(Community = community_area_name)
 
-#merge vacant lot, affordable housing, and socieconomic data
+#merge vacant lot, affordable housing, and socioeconomic data
 clean_chicago_data <- socioec_data |>
   left_join(vacant_lots, by = "Community") |>
   left_join(affordable_housing_clean, by = "Community") |>
   janitor::clean_names()|>
+  select(-c(vacant_or_occupied, who_occupies, location, x_coordinate, y_coordinate, zip_code_y, zip_code_x, latitude_y,
+            longitude_y, ca))|>
   na.omit()
+
+summary(clean_chicago_data)
+#Some of the data need to be transformed to the correct data type
+
+
+# Convert columns to appropriate data types
+clean_chicago_data <- clean_chicago_data |>
+  mutate(
+    community = as.factor(community),                          
+    community_area_number = as.numeric(community_area_number), 
+    property_type = as.factor(property_type),                  
+    percent_of_housing_crowded = as.numeric(percent_of_housing_crowded), 
+    percent_households_below_poverty = as.numeric(percent_households_below_poverty), 
+    percent_aged_16_unemployed = as.numeric(percent_aged_16_unemployed),
+    percent_aged_25_without_high_school_diploma = as.numeric(percent_aged_25_without_high_school_diploma), 
+    percent_aged_under_18_or_over_64 = as.numeric(percent_aged_under_18_or_over_64), 
+    per_capita_income = as.numeric(per_capita_income),         
+    hardship_index = as.numeric(hardship_index),              
+    count_vacant = as.numeric(count_vacant),
+    latitude_x = as.numeric(latitude_x),                      
+    longitude_x = as.numeric(longitude_x)                     
+  ) |>
+  na.omit()
+
+#Check the structure of the dataset after conversions
+str(clean_chicago_data)
 
 write.csv(clean_chicago_data, "C:/Users/momo_/OneDrive/Documents/GitHub/finalproject/clean_chicago_data.csv")
 
+#for regression
+clean_chicago_sf <- st_as_sf(clean_chicago_data, coords = c("longitude_x", "latitude_x"), crs = 4326)
+clean_chicago_sf <- st_join(nhood_shape, clean_chicago_sf)
+#Get the coordinates for creating spatial neighbors
+coords <- st_coordinates(clean_chicago_sf)[, c("X", "Y")] #to ensure there are only two columns
+duplicated_coords <- duplicated(coords)
+sum(duplicated_coords)
+coords_unique <- coords[!duplicated(coords), ]
+
+#Use k-nearest neighbors (e.g., 4 nearest neighbors)
+nb <- knn2nb(knearneigh(coords, k = 4))
+# Convert to a listw (weights list) object
+weights <- nb2listw(nb, style = "W")
+
+# Compute Moran's I to check for spatial autocorrelation
+moran.test(clean_chicago_sf$affordable_units_no, listw = weights)
+
+# Fit a Spatial Lag Model using affordable housing units as the dependent variable
+lag_model <- lagsarlm(affordable_housing_units ~ ., data = merged_sf, listw = weights)
+summary(lag_model)
+
+# Fit a Spatial Error Model
+error_model <- errorsarlm(affordable_housing_units ~ ., data = merged_sf, listw = weights)
+summary(error_model)
+
+
+
+queen.nb <- poly2nb(clean_chicago_sf)
+rook.nb <- poly2nb(clean_chicago_sf, queen = FALSE)
+
+#convert to listw type
+queen.listw <- nb2listw(queen.nb)
+rook.listw <- nb2listw(rook.nb)
+
+#we will define our regression equation with dependent variable being number of 
+#open lots and independent variables being Neighborhood characteristics (hardship index, population density, land use types)
+sp_reg <- affordable_units_no ~ property_type + percent_of_housing_crowded + percent_aged_16_unemployed + percent_aged_25_without_high_school_diploma + percent_aged_under_18_or_over_64 + per_capita_income + hardship_index
+options(scipen = 7)
+regress <- lmSLX(sp_reg, data = clean_chicago_sf, queen.listw)
+summary(regress)
