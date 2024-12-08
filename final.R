@@ -256,5 +256,5 @@ summary(vacant_reg1)
 stargazer(vacant_reg1, type = "text")
 
 
-#textanalysis
+#Text Analysis
 
