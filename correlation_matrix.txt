@@ -1,0 +1,4 @@
+"hardship_index"	"count_vacant"	"affordable_units_no"
+"hardship_index"	1	0.46490915656325	0.08845364171776
+"count_vacant"	0.46490915656325	1	0.0693589193602982
+"affordable_units_no"	0.08845364171776	0.0693589193602982	1

@@ -7,6 +7,9 @@ library(jsonlite)
 library(rvest)
 library(dplyr)
 library(spdep)
+library(ggplot2)
+library(spatialreg)
+library(stargazer)
 
 zippath <- "C:/Users/momo_/OneDrive/Documents/GitHub/finalproject"
 zip <- paste0(zippath, "/Boundaries - Neighborhoods.zip")
@@ -27,7 +30,8 @@ affordable_housing_clean <- affordable_housing|>
          affordable_units_no = units) |>
   select(-c(property_name, address, phone_number, management_company))
 
-#importing vacant lots in Chicago using JSON directly from the API
+#importing vacant lots in Chicago using JSON directly from the API but allowing toggle
+
 
 chicago_data <- fromJSON("https://data.cityofchicago.org/resource/7nii-7srd.json") |>
   janitor::clean_names() |>
@@ -55,64 +59,7 @@ vacant_lots <- left_join(chicago_data, community_area, by = "community_area") |>
   mutate(count_vacant = n()) |>
   select(c(Community, who_occupies, zip_code, latitude, longitude, count_vacant))
 
-#checking crs before mapping vacant lots, affordable housing, and neighbourhood boundaries
-st_crs(nhood_shape) == st_crs(vacant_lots)
-st_crs(affordable_housing_clean) == st_crs(nhood_shape)
-st_crs(affordable_housing_clean) == st_crs(vacant_lots)
-
-#converting affordable housing and vacant lots to sf object
-vacant_lots_sf <- st_as_sf(vacant_lots, coords = c("longitude", "latitude"), crs = 4326)
-affordable_housing_sf <- st_as_sf(affordable_housing_clean, coords = c("Longitude", "Latitude"), crs = 4326)
-
-#Perform spatial join to associate affordable housing with neighborhoods
-nhoods_affordable <- st_join(affordable_housing_sf, nhood_shape, join = st_intersects)
-
-affordable_housing_count <- nhoods_affordable |>
-  group_by(pri_neigh) |>
-  summarise(affordable_housing_total = n()) |>
-  mutate(affordable_housing_total = ifelse(is.na(affordable_housing_total), 0, affordable_housing_total))
-
-# plot chicago neighbourhoods + affordable
-affordable_housing_plot <- ggplot() +
-    geom_sf(data = nhood_shape, size = 0.5) +  
-    geom_sf(data = affordable_housing_count, aes(color = affordable_housing_total)) + 
-    scale_color_gradient(low = 'lightpink', high = 'red') +
-    theme_minimal() +
-    labs(title = "Affordable Housing in Chicago Neighborhoods 2024",
-         color = "Total Affordable Housing") +
-    theme(legend.position = "right")
-
-affordable_housing_plot
-
-ggsave("affordable_housing_plot.png", plot = affordable_housing_plot, width = 6, height = 4, dpi = 300)
-
-
-#Step 2: Add vacant lots to the graph
-vacant_lots_hist <- vacant_lots |>
-  group_by(Community) |>
-  head(15) |>
-  ggplot(aes(x = reorder(Community, count), y = count_vacant)) +
-  geom_histogram(stat = "identity") +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
-
-vacant_lots_hist
-ggsave("vacant_lots_hist.png", plot = vacant_lots_hist, width = 6, height = 4, dpi = 300)
-
-#plot vacant lot on affordable housing plot
-vacant_lot_housing_plot <- affordable_housing_plot +
-  geom_sf(data = vacant_lots_sf, color = "lightblue", aes(shape = "Vacant Lots")) +
-  scale_shape_manual(values = 15, name = NULL) +
-  labs(title = "Affordable Housing Units and Vacant Lots in Chicago", 
-       subtitle = "Latest Data as of July 2024")
- 
-vacant_lot_housing_plot
-
-ggsave("vacant_lot_housing_plot.png", plot = vacant_lot_housing_plot, width = 6, height = 4, dpi = 300)
-
-#Step 3: I will run a spatial regression using socioeconomic data which helps me analyze the distribution of affordable housing developments and open lots across neighborhoods.
-
-
-#Importing the socioeconomic dataset for communities to see the socioeconomic status 
+#Importing the socioeconomic dataset for communities to incorporate the socioeconomic status in the regression
 socioec_data <- fromJSON("https://data.cityofchicago.org/resource/5kdt-irec.json") |>
   janitor::clean_names() |>
   rename(Community = community_area_name)
@@ -122,13 +69,34 @@ clean_chicago_data <- socioec_data |>
   left_join(vacant_lots, by = "Community") |>
   left_join(affordable_housing_clean, by = "Community") |>
   janitor::clean_names()|>
-  select(-c(vacant_or_occupied, who_occupies, location, x_coordinate, y_coordinate, zip_code_y, zip_code_x, latitude_y,
-            longitude_y, ca))|>
+  select(-c(who_occupies, location, x_coordinate, y_coordinate, zip_code_y, zip_code_x, latitude_y,
+            longitude_y, ca)) |>
   na.omit()
+
+#grouping the types of properties
+clean_chicago_data |>
+  count(property_type, name = "count")
+
+clean_chicago_data <- clean_chicago_data |>
+  mutate(property_type = case_when(
+    property_type %in% c("Senior", "Senior HUD 202", "Senior Supportive Living") ~ "Senior",
+    property_type == "ARO" ~ "ARO",
+    property_type %in% c("Artist Housing", "Artist Live/Work Space", "Artist/Family", 
+                         "Artists & Families", "Multifamily/Artists") ~ "Artist",
+    property_type == "Inter-generational" ~ "Inter-generational",
+    property_type %in% c("Multifamily", "Mutifamily", "Multfamily") ~ "Multifamily",
+    property_type == "People with Disabilities" ~ "People with Disabilities",
+    property_type %in% c("Supportive", "Supportive Housing", "Supportive/HIV/AIDS", 
+                         "Supportive/Kinship Families", "Supportive/Teenage Moms", 
+                         "Supportive/Veterans", "Supportive/Youth/Kinship Families") ~ "Supportive Housing",
+    TRUE ~ "Other"
+  ))
+
+clean_chicago_data |>
+  count(property_type, name = "count")
 
 summary(clean_chicago_data)
 #Some of the data need to be transformed to the correct data type
-
 
 # Convert columns to appropriate data types
 clean_chicago_data <- clean_chicago_data |>
@@ -146,51 +114,147 @@ clean_chicago_data <- clean_chicago_data |>
     count_vacant = as.numeric(count_vacant),
     latitude_x = as.numeric(latitude_x),                      
     longitude_x = as.numeric(longitude_x)                     
-  ) |>
-  na.omit()
+  )|>
+  rename(latitude = latitude_x,
+         longitude = longitude_x)
 
 #Check the structure of the dataset after conversions
 str(clean_chicago_data)
 
-write.csv(clean_chicago_data, "C:/Users/momo_/OneDrive/Documents/GitHub/finalproject/clean_chicago_data.csv")
+write.csv(clean_chicago_data, paste0(zippath, "/clean_chicago_data.csv")) #this clean dataset is primarily for the regression analysis 
+
+#checking crs before mapping vacant lots, affordable housing, and neighbourhood boundaries; I will use the unmerged data sets to map the graphs because 
+#the merged excludes areas with affordable housing and vacant lots due to NAs after merging. Moreover, the socioeconomic data does not have location points
+#hence the NAs. 
+st_crs(nhood_shape) == st_crs(vacant_lots)
+st_crs(affordable_housing_clean) == st_crs(nhood_shape)
+st_crs(affordable_housing_clean) == st_crs(vacant_lots)
+
+#converting affordable housing and vacant lots to sf object
+vacant_lots_sf <- st_as_sf(vacant_lots, coords = c("longitude", "latitude"), crs = 4326)
+affordable_housing_sf <- st_as_sf(affordable_housing_clean, coords = c("longitude", "latitude"), crs = 4326)
+
+#Perform spatial join to associate affordable housing with neighborhoods
+nhoods_affordable <- st_join(affordable_housing_sf, nhood_shape, join = st_intersects)
+
+affordable_housing_count <- nhoods_affordable |>
+  group_by(pri_neigh) |>
+  summarise(affordable_housing_total = n()) |>
+  mutate(affordable_housing_total = ifelse(is.na(affordable_housing_total), 0, affordable_housing_total))
+
+# plot chicago neighbourhoods + affordable
+affordable_housing_plot <- ggplot() +
+  geom_sf(data = nhood_shape, size = 0.5) +  
+  geom_sf(data = affordable_housing_count, aes(color = affordable_housing_total)) + 
+  scale_color_gradient(low = 'lightpink', high = 'red') +
+  theme_minimal() +
+  labs(title = "Affordable Housing in Chicago Neighborhoods 2024",
+       color = "Total Affordable Housing") +
+  theme(legend.position = "right")
+
+affordable_housing_plot
+
+ggsave("affordable_housing_plot.png", plot = affordable_housing_plot, width = 6, height = 4, dpi = 300)
+
+
+#Step 2: Add vacant lots to the graph
+vacant_lots_hist <- vacant_lots |>
+  group_by(Community) |>
+  summarize(count_vacant = first(count_vacant)) |>
+  arrange(desc(count_vacant)) |>
+  head(15) |>
+  ggplot(aes(x = reorder(Community, count_vacant), y = count_vacant)) +
+  geom_col() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+  labs(title = "Top 15 Communities with Vacant Lots in Chicago",
+       x = "Communities",
+       y = "Count")
+
+vacant_lots_hist
+ggsave("vacant_lots_hist.png", plot = vacant_lots_hist, width = 6, height = 4, dpi = 300)
+
+#plot vacant lot on affordable housing plot
+vacant_lot_housing_plot <- affordable_housing_plot +
+  geom_sf(data = vacant_lots_sf, color = "lightblue", aes(shape = "Vacant Lots")) +
+  scale_shape_manual(values = 15, name = NULL) +
+  labs(title = "Affordable Housing Units and Vacant Lots in Chicago", 
+       subtitle = "Latest Data as of July 2024")
+
+vacant_lot_housing_plot
+
+ggsave("vacant_lot_housing_plot.png", plot = vacant_lot_housing_plot, width = 6, height = 4, dpi = 300)
+
+#Step 3: I will run a spatial regression using socioeconomic data which helps me analyze the distribution of affordable housing developments and open lots across neighborhoods.
+#I will first check the correlation matrix Select numeric columns of interest
+numeric_columns <- clean_chicago_data[, c("hardship_index", "count_vacant", "affordable_units_no")]
+
+# Calculate the correlation matrix
+cor_matrix <- cor(numeric_columns, use = "complete.obs") # Excludes rows with NAs
+print(cor_matrix)
+
+# Save the correlation matrix as a CSV file
+write.csv(cor_matrix, paste0(zippath, "/correlation_matrix.csv"), row.names = TRUE)
+
+#I will then plot the correlation between affordable housing, vacant lots, and the hardship index
+corr_plot_2 <- ggplot(clean_chicago_data, aes(x = hardship_index)) +
+  # Plot for Count of Vacant Lots
+  geom_point(aes(y = count_vacant), color = "blue") +
+  geom_smooth(aes(y = count_vacant), method = "lm", color = "blue", se = TRUE) +
+  # Plot for Affordable Units with transformation
+  geom_point(aes(y = affordable_units_no / 10), color = "pink") +  # Scale down affordable units
+  geom_smooth(aes(y = affordable_units_no / 10), method = "lm", color = "red", se = TRUE) +
+  # Labels and second y-axis
+  scale_y_continuous(
+    name = "Count of Vacant Lots",
+    sec.axis = sec_axis(~ . * 10, name = "Count of Affordable Units")
+  ) +
+  labs(
+    title = "Hardship Index vs Count of Vacant Lots and Affordable Units",
+    x = "Hardship Index"
+  ) +
+  theme_minimal() +
+  theme(
+    axis.title.y.right = element_text(color = "red"),
+    axis.title.y.left = element_text(color = "blue")
+  )
+corr_plot_2
+
+ggsave("corr_plot_2.png", plot = corr_plot_2, width = 6, height = 4, dpi = 300)
+
 
 #for regression
-clean_chicago_sf <- st_as_sf(clean_chicago_data, coords = c("longitude_x", "latitude_x"), crs = 4326)
+clean_chicago_sf <- st_as_sf(clean_chicago_data, coords = c("longitude", "latitude"), crs = 4326)
 clean_chicago_sf <- st_join(nhood_shape, clean_chicago_sf)
-#Get the coordinates for creating spatial neighbors
-coords <- st_coordinates(clean_chicago_sf)[, c("X", "Y")] #to ensure there are only two columns
-duplicated_coords <- duplicated(coords)
-sum(duplicated_coords)
-coords_unique <- coords[!duplicated(coords), ]
 
-#Use k-nearest neighbors (e.g., 4 nearest neighbors)
-nb <- knn2nb(knearneigh(coords, k = 4))
-# Convert to a listw (weights list) object
-weights <- nb2listw(nb, style = "W")
+overcrowded_plot <- ggplot() +
+  geom_sf(data = nhood_shape, size = 0.5) +  
+  geom_sf(data = clean_chicago_data_sf, aes(color = percent_of_housing_crowded)) + 
+  scale_color_gradient(low = 'orange', high = 'red') +
+  theme_minimal() +
+  labs(title = "Percent of Households Overcrowded in Chicago Neighborhoods 2024",
+       color = "Total Percent") +
+  theme(legend.position = "right")
+overcrowded_plot
 
-# Compute Moran's I to check for spatial autocorrelation
-moran.test(clean_chicago_sf$affordable_units_no, listw = weights)
+ggsave("overcrowded_plot.png", plot = overcrowded_plot, width = 6, height = 4, dpi = 300)
 
-# Fit a Spatial Lag Model using affordable housing units as the dependent variable
-lag_model <- lagsarlm(affordable_housing_units ~ ., data = merged_sf, listw = weights)
-summary(lag_model)
+#I will create a ratio of overcrowding to affordable housing needs
 
-# Fit a Spatial Error Model
-error_model <- errorsarlm(affordable_housing_units ~ ., data = merged_sf, listw = weights)
-summary(error_model)
+clean_chicago_data <- clean_chicago_data |>
+  mutate(housing_need_ratio = percent_of_housing_crowded/affordable_units_no)
+
+#With this information, i will run a regression to with dependent variabel vacant lots and the needs ratio
+
+vacant_reg <- lm(count_vacant ~ housing_need_ratio, data = clean_chicago_data)
+summary(vacant_reg)
+
+stargazer(vacant_reg, type = "text")
+#then, I will control for other factors such as income, education, and age, which is captured in hardship index as well as property type
+vacant_reg1 <- lm(count_vacant ~ housing_need_ratio + hardship_index + property_type, data = clean_chicago_data)
+summary(vacant_reg1)
+
+stargazer(vacant_reg1, type = "text")
 
 
+#textanalysis
 
-queen.nb <- poly2nb(clean_chicago_sf)
-rook.nb <- poly2nb(clean_chicago_sf, queen = FALSE)
-
-#convert to listw type
-queen.listw <- nb2listw(queen.nb)
-rook.listw <- nb2listw(rook.nb)
-
-#we will define our regression equation with dependent variable being number of 
-#open lots and independent variables being Neighborhood characteristics (hardship index, population density, land use types)
-sp_reg <- affordable_units_no ~ property_type + percent_of_housing_crowded + percent_aged_16_unemployed + percent_aged_25_without_high_school_diploma + percent_aged_under_18_or_over_64 + per_capita_income + hardship_index
-options(scipen = 7)
-regress <- lmSLX(sp_reg, data = clean_chicago_sf, queen.listw)
-summary(regress)
