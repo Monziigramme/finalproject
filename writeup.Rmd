@@ -49,9 +49,23 @@ In addition, a regression analysis was conducted to assess the level of need for
 
 ```{r}
 Regression1 <- read.csv(paste0(path, "/regression_1.txt"), header = TRUE)
-print(head(Regression1))
+print(Regression1)
+
+Regression2 <- read.csv(paste0(path, "/regression_2.txt"), header = TRUE)
+print(Regression2)
 ```
 
-Given the importance of this topic, I conducted text analysis on homelessness and the sentiment in the City of Chicago's point in time survey. It should be noted that the data only comprises 2014 to 2021 because the name changed after 2021. According to
+Given the importance of this topic, I conducted text analysis on homelessness and the sentiment in the City of Chicago's point in time survey. It should be noted that the data only comprises 2014 to 2021 because the name changed after 2021. According to the afinn, nrc, and bing sentiment analysis, homelessness using the city's reports is overall positive. The nrc shed light on some sentiments being anticipatory and negative while the afinn shows that notable scores on the negative side (-3 and -2) were found. However, overall positive. I believe this could be attributable to the city wanting to emphasize their commitment to reducing homelessness, highlighting the steps that they are taking to do so. However, it should be noted that these analysis do have limitations in their processes.
+
+```{r}
+Figure_4 <- readPNG(paste0(path, "/nrc_plot.png"))
+grid::grid.raster(Figure_4)
+
+Figure_5 <- readPNG(paste0(path, "/afinn_plot.png"))
+grid::grid.raster(Figure_5)
+
+Figure_6 <- readPNG(paste0(path, "/bing_plot.png"))
+grid::grid.raster(Figure_6)
+```
 
 In conclusion, this report underscores the critical need for affordable housing in Chicago, particularly amidst the growing housing crisis exacerbated by the influx of migrants and the rising number of individuals experiencing homelessness. The analysis highlights that many of the city's vacant lots are located in neighborhoods with high levels of socioeconomic hardship, suggesting that repurposing these lots could be an effective strategy to address the housing shortage. By focusing on communities with high levels of overcrowding and racial disparities, the report weakly demonstrates that vacant lots, particularly in the South Side, could serve as a potential resource for building affordable housing, including inter-generational and supportive housing. While the regression analysis provides useful insights into the relationship between housing need and vacant lots, the limited explanatory power suggests that further exploration and additional data are necessary to refine the understanding of this issue. Ultimately, transforming vacant lots into affordable housing could help provide much-needed shelter and improve the living conditions of those most vulnerable in the city. Therefore, this should be further explored and complemented with data examining the cost of affordable housing, the income in each community, and the respective level of homelessness.
