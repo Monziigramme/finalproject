@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 setwd("C:/Users/momo_/OneDrive/Documents/GitHub/finalproject")
 library("tidyverse")
-library(png)
+library("png")
 path <- ("C:/Users/momo_/OneDrive/Documents/GitHub/finalproject/images")
 ```
 
@@ -34,7 +34,7 @@ The situation of affordable housing and vacant lots in the city is quite telling
 Figure_1 <- readPNG(paste0(path, "/affordable_housing_plot.png"))
 grid::grid.raster(Figure_1)
 
-Figure_2 <- readPNG(paste0(path, "/vacant_lots_plot.png"))
+Figure_2 <- readPNG(paste0(path, "/vacant_lot_housing_plot.png"))
 grid::grid.raster(Figure_2)
 ```
 
