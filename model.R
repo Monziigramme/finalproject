@@ -43,7 +43,7 @@ corr_plot_2 <- ggplot(clean_chicago_data, aes(x = hardship_index)) +
   )
 corr_plot_2
 
-ggsave(paste0(zippath, "/corr_plot_2.png"), plot = corr_plot_2, width = 6, height = 4, dpi = 300)
+ggsave(paste0(zippath, "/images/corr_plot_2.png"), plot = corr_plot_2, width = 6, height = 4, dpi = 300)
 
 
 #for regression
@@ -60,7 +60,7 @@ overcrowded_plot <- ggplot() +
   theme(legend.position = "right")
 overcrowded_plot
 
-ggsave(paste0(zippath, "/overcrowded_plot.png"), plot = overcrowded_plot, width = 6, height = 4, dpi = 300)
+ggsave(paste0(zippath, "/images/overcrowded_plot.png"), plot = overcrowded_plot, width = 6, height = 4, dpi = 300)
 
 #I will create a ratio of overcrowding to affordable housing needs
 
@@ -72,10 +72,10 @@ clean_chicago_data <- clean_chicago_data |>
 vacant_reg <- lm(count_vacant ~ housing_need_ratio, data = clean_chicago_data)
 summary(vacant_reg)
 
-stargazer(vacant_reg, type = "text", out = paste0(zippath, "/regression_1.txt"))
+stargazer(vacant_reg, type = "text", out = paste0(zippath, "/images/regression_1.txt"))
 
 #then, I will control for other factors such as income, education, and age, which is captured in hardship index as well as property type
 vacant_reg1 <- lm(count_vacant ~ housing_need_ratio + hardship_index + property_type, data = clean_chicago_data)
 summary(vacant_reg1)
 
-stargazer(vacant_reg1, type = "text", out = paste0(zippath, "/regression_2.txt"))
+stargazer(vacant_reg1, type = "text", out = paste0(zippath, "/images/regression_2.txt"))

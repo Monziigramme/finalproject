@@ -3,7 +3,7 @@ library(ggplot2)
 library(sf)
 library(sp)
 
-zippath <- "C:/Users/momo_/OneDrive/Documents/GitHub/finalproject/"
+zippath <- "C:/Users/momo_/OneDrive/Documents/GitHub/finalproject"
 nhood_shape <- st_read(file.path(zippath, "/geo_export_adb12c01-c30d-4573-b741-90bfc6a3f43f.shp"))
 affordable_housing_clean <- read.csv(paste0(zippath, "/affordable_housing_clean.csv"))
 vacant_lots <- read.csv(paste0(zippath, "/vacant_lots.csv"))
@@ -65,7 +65,8 @@ vacant_lot_housing_plot <- affordable_housing_plot +
 
 vacant_lot_housing_plot
 
+images_folder <- paste0(zippath, "/images")
 
-ggsave(paste0(zippath, "/affordable_housing_plot.png"), plot = affordable_housing_plot, width = 6, height = 4, dpi = 300)
-ggsave(paste0(zippath, "/vacant_lots_hist.png"), plot = vacant_lots_hist, width = 6, height = 4, dpi = 300)
-ggsave(paste0(zippath, "vacant_lot_housing_plot.png"), plot = vacant_lot_housing_plot, width = 6, height = 4, dpi = 300)
+ggsave(paste0(images_folder, "/affordable_housing_plot.png"), plot = affordable_housing_plot, width = 6, height = 4, dpi = 300)
+ggsave(paste0(images_folder, "/vacant_lots_hist.png"), plot = vacant_lots_hist, width = 6, height = 4, dpi = 300)
+ggsave(paste0(images_folder, "/vacant_lot_housing_plot.png"), plot = vacant_lot_housing_plot, width = 6, height = 4, dpi = 300)

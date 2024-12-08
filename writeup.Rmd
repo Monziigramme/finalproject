@@ -1,0 +1,57 @@
+---
+title: "Homelessness In Chicago"
+author: "Monique Graham"
+date: "2024-12-08"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+setwd("C:/Users/momo_/OneDrive/Documents/GitHub/finalproject")
+library("tidyverse")
+library(png)
+path <- ("C:/Users/momo_/OneDrive/Documents/GitHub/finalproject/images")
+```
+
+A safe and stable home is essential to any individual's health and wellbeing. As a sanctuary city for refugees, Chicago, has pledged to provide safe housing for new arrivals as well as for its own citizens. Notwithstanding this longstanding commitment, there exists a limited availability of shelters and affordable housing that continues to threaten the requisite basic needs for those in need. This has intensified in recent times with the influx of migrants in August 2022, pressuring the already overwhelmed shelters. In 2024, approximately 18,836 people were experiencing homelessness in shelters or unsheltered locations. While the majority account for new arrivals, it has been noted that homelessness among non-New arrivals has been increasing from 4,522 in 2022 to 4,945 in 2024 due to the ending of pandemic-era support. In addition to homelessness increasing beyond the capacity of existing shelters, this phenomenon is also an issue of equity. Firstly, the overwhelming majority of people experiencing homelessness in Chicago are extremely low-income households, earning less than 30 percent of the area median income - the universal standard used by local governments to calculate maximum affordable housing costs for households of different sizes. In addition, most of these individuals hail from the south and west sides of the city, areas in which there have been great disinvestment in infrastructure and social services. Secondly, homelessness in Chicago holds significant racial disparities. For the non-New arrivals population, 72 percent identified as Black/African American individuals and families, which is significantly higher when compare to other ethnic groups. To further support the writing of this report, a recent research by the Housing Studies at De-Paul University found that the affordable housing gap, the difference between the demand for affordable housing and the supply available, in 2021, was the highest in at least a decade reaching over 119,000 units. Note, this was before the influx of immigrants into the city. Against this backdrop, this working analysis seeks to examine the possibility of re-purposing vacant lots in response to the need for more affordable housing. Therefore, the report will:
+
+1.  Locate affordable housing and vacant lots across the city
+
+2.  Highlight top neighborhoods with highest number of vacant lots
+
+3.  Assess the relationship between the availability of vacant lots and socioeconomic indicators to highlight the potential of reducing homelessness in communities with low socioeconomic status and ultimately, provide the basic need of shelter for these individuals and families.
+
+Lastly, the report will identify limitations and how to improve the research. The data was obtained from the Chicago Data Portal, using several methods including importation of csv and zip files, APIs and web scraping. A total of four data sets were used to produce the results discussed below.
+
+**Analysis**
+
+The situation of affordable housing and vacant lots in the city is quite telling. In examining the map plotting affordable housing, there is a high concentration of affordable houses on the west and north sides of the city. So, communities such as Humboldt Park, West Garfield, North Center and Lakeview tend to have more clusters of affordable housing relative to other neighborhoods. For those situated in the West, it is an unexpected result since the most of these communities experience higher levels of poverty and are ranked high on the hardship index. With regard to vacant lots, most of these are on the south side and, in contrast, is unsurprising as most of these areas are under-invested in with many abandoned buildings and lands. If we take a more granular look at the top 15 neighborhoods with vacant lots, West Englewood has the highest, about 35, followed by Auburn Gresham, and West Pullman with 26 and 20, respectively.
+
+```{r}
+Figure_1 <- readPNG(paste0(path, "/affordable_housing_plot.png"))
+grid::grid.raster(Figure_1)
+
+Figure_2 <- readPNG(paste0(path, "/vacant_lots_plot.png"))
+grid::grid.raster(Figure_2)
+```
+
+Since the majority of lots are located in the south side of the city, I wanted to establish more concretely a relationship between vacant lots, affordable housing, and communities facing hardship (as these tend to house more Black/African American individuals and tend to be more likely to face homelessness). According to the correlation plot, there is a strong positive relationship between vacant lots and communities facing more intense socioeconomic challenges (in blue). On the other hand, there is a very weak, almost neutral, but positive correlation between affordable housing and communities facing hardship. I expected a negative correlation due to these individuals' inability to afford housing. However, the plot of affordable housing across the city suggested otherwise. I also looked at overcrowded communities and found that the majority were on the west and south sides, where the larger cluster of vacant lots are found. This is evident from the graph (overcrowded_plot.png)
+
+```{r}
+Figure_3 <- readPNG(paste0(path, "/overcrowded_plot.png"))
+grid::grid.raster(Figure_3)
+```
+
+In addition, a regression analysis was conducted to assess the level of need for housing in Chicago neighbourhoods and using the vacant lots to satisfy the demand. The first model (regression 1) shows that the housing need ratio (calculated by percent of overcrowded homes/affordable housing) has a statistically significant negative relationship with vacant lots. For every one unit increase in housing need ratio, there's a likelihood that the number of vacant lots reduce by 1.16 (β = -1.160, p \< 0.01). Therefore, in neighbourhoods with higher housing needs, more vacant lots are available. However, according to the R\^2, the model only explains 2.5% of the variation in vacant lots. Examining the second regression which looks at the types of affordable housing properties that could be built on vacant lots, we see that inter-generational housing shows the largest positive effect, as well as senior and supportive housing (housing for teenage mothers, kinship families, those with HIV/AIDS, veterans, and youth). Therefore, this suggests that these types of houses may be more likely to be built on vacant lots, potentially filling the gap in many of these communities, deriving potentially the highest benefits to enabling homeliness.
+
+```{r}
+Regression1 <- read.csv(paste0(path, "/regression_1.txt"), header = TRUE)
+print(head(Regression1))
+```
+
+Given the importance of this topic, I conducted text analysis on homelessness and the sentiment in the City of Chicago's point in time survey. It should be noted that the data only comprises 2014 to 2021 because the name changed after 2021. According to
+
+In conclusion, this report underscores the critical need for affordable housing in Chicago, particularly amidst the growing housing crisis exacerbated by the influx of migrants and the rising number of individuals experiencing homelessness. The analysis highlights that many of the city's vacant lots are located in neighborhoods with high levels of socioeconomic hardship, suggesting that repurposing these lots could be an effective strategy to address the housing shortage. By focusing on communities with high levels of overcrowding and racial disparities, the report weakly demonstrates that vacant lots, particularly in the South Side, could serve as a potential resource for building affordable housing, including inter-generational and supportive housing. While the regression analysis provides useful insights into the relationship between housing need and vacant lots, the limited explanatory power suggests that further exploration and additional data are necessary to refine the understanding of this issue. Ultimately, transforming vacant lots into affordable housing could help provide much-needed shelter and improve the living conditions of those most vulnerable in the city. Therefore, this should be further explored and complemented with data examining the cost of affordable housing, the income in each community, and the respective level of homelessness.

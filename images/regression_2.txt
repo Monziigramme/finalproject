@@ -1,0 +1,44 @@
+
+=================================================================
+                                          Dependent variable:    
+                                      ---------------------------
+                                             count_vacant        
+-----------------------------------------------------------------
+housing_need_ratio                             -0.967***         
+                                                (0.141)          
+                                                                 
+hardship_index                                 0.187***          
+                                                (0.009)          
+                                                                 
+property_typeArtist                             -0.895           
+                                                (1.388)          
+                                                                 
+property_typeInter-generational                8.572***          
+                                                (1.769)          
+                                                                 
+property_typeMultifamily                         0.978           
+                                                (0.788)          
+                                                                 
+property_typeOther                               0.203           
+                                                (1.387)          
+                                                                 
+property_typePeople with Disabilities           -1.332           
+                                                (1.557)          
+                                                                 
+property_typeSenior                            4.330***          
+                                                (0.813)          
+                                                                 
+property_typeSupportive Housing                3.692***          
+                                                (0.889)          
+                                                                 
+Constant                                       -1.440**          
+                                                (0.682)          
+                                                                 
+-----------------------------------------------------------------
+Observations                                     2,356           
+R2                                               0.292           
+Adjusted R2                                      0.289           
+Residual Std. Error                        7.301 (df = 2346)     
+F Statistic                            107.428*** (df = 9; 2346) 
+=================================================================
+Note:                                 *p<0.1; **p<0.05; ***p<0.01

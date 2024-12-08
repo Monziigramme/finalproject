@@ -162,3 +162,7 @@ bing_plot <- ggplot() +
        caption = 'Note: Only words with sentiment scores are included.',
        fill = NULL)
 bing_plot
+
+ggsave(paste0(zippath, "images/nrc_plot.png"), plot = nrc_plot, width = 6, height = 4, dpi = 300)
+ggsave(paste0(zippath, "images/bing_plot.png"), plot = bing_plot, width = 6, height = 4, dpi = 300)
+ggsave(paste0(zippath, "images/afinn_plot.png"), plot = afinn_plot, width = 6, height = 4, dpi = 300)
