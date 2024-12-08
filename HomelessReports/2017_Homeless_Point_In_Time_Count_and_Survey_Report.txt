@@ -1,0 +1,1248 @@
+City of Chicago
+
+2017 HOMELESS
+Point-in-Time Count & Survey
+Report
+Prepared by the Voorhees Center for Neighborhood & Community
+Improvement, University of Illinois at Chicago
+
+2017 Chicago Homeless Count & Survey
+
+INTRODUCTION                                              Polish American Association, Thresholds, Deborah’s
+The Point in Time (PIT) count and survey of unsheltered   Place, A Safe Haven, and Olive Branch Mission. The
+and sheltered homeless persons in Chicago led by the      Chicago Park District, Chicago Police Department,
+Department of Family and Support Services (DFSS)          Chicago Transit Authority, Chicago Department of
+took place on the evening of January 26, 2017. A          Aviation, and the U.S. Department of Veterans Affairs
+mandate by the U.S. Department of Housing and             assisted on the night of the count.
+Urban Development (HUD), the intent is to produce a
+picture of homelessness in Chicago. The data collected    Consultant
+annually is comparable to pervious counts conducted       The Nathalie P. Voorhees Center for Neighborhood
+since 2005 and can help Chicago develop a better          & Community Improvement at the University of
+understanding of the number of people in shelters         Illinois at Chicago was contracted by DFSS to assist in
+and those who are unsheltered, including youth and        completing the PIT count. This included:
+chronically homeless persons, and their housing and
+                                                          •Reviewing any changes in HUD guidance that would
+service needs.                                            require changes to the data collected on the tally, in
+                                                          the survey or both; coordination of the count; and/
+In addition, the data is used to estimate the needed      or requirements related to subpopulations such as
+resources and track progress in reducing the number       chronic or youth.
+of people who experience homelessness. This report
+                                                          •Recommending new and improved amendments to
+describes the methodology used to conduct the 2017        the 2017 methodology from the previous year’s PIT
+PIT and the characteristics of homeless populations,      count.
+analyzes trends using past data, and discusses
+important points to consider including limitations.       •Advising DFSS staff on data entry and creating a
+                                                          database to house the data.
+
+ROLE OF PARTICIPATING                                     •Analyzing the data collected by DFSS and producing
+                                                          the data tables required for submission to HUD as part
+AGENCIES AND CONSULTANT                                   of the Homeless Data Exchange (HDX).
+
+Chicago Department of Family and Support Services         •Producing a final report on the methodology, data,
+(DFSS)                                                    and analysis of populations, subpopulations, and
+DFSS was responsible for coordinating the PIT count       trends including data beyond what is required for the
+and survey; training and managing volunteers in the       HDX submission.
+field on the night of the count; collecting all surveys
+and tally sheets, entering data; reviewing data
+collection tools, data analysis, and reports produced
+                                                          METHODOLOGY
+                                                          In 2017, the Chicago collaborative partners agreed to
+by the consultant; and disseminating findings. This
+                                                          improve the method of counting people in shelter and
+year’s PIT was conducted with over 500 staff and
+                                                          on the street. As in the past, data would be collected
+volunteers.
+                                                          from tallies of individuals in shelters and of individuals
+                                                          residing on the streets, riding public transportation,
+All Chicago
+                                                          at 24-hour establishments, and in parks, cars, and
+All Chicago provided input to survey development,
+                                                          other locations not meant for sleeping. The PIT count
+supplied HMIS data, review of preliminary results
+                                                          also includes a survey that collects demographic,
+and subsequent, independent data analysis and
+                                                          social service and other information from a subset of
+dissemination of findings. All Chicago also provided
+                                                          homeless individuals.
+coordination assistance and training to volunteers at
+site lead locations.                                      The first improvement in 2017 demonstrates the
+                                                          strides Chicago has made to improve the quality of
+Lead & Other City Agencies
+The lead agencies involved in the count included          data collected from service providers. For the first
+Mercy Housing Lakefront, The Night Ministry, the          time, the shelter count was a hybrid approach that
+                                                                                                                  2
+
+2017 Chicago Homeless Count & Survey
+
+included data both from the Homeless Management                                    The entire City was divided into geographic areas
+Information System (HMIS) and from the tally                                       based on Census Tracts in order to produce a complete
+and survey submission. Future efforts will enable                                  canvas of the city. Specialized teams of experienced
+providers to collect and submit data electronically.1                              staff and volunteers were provided maps of the areas
+Second, building on a successful outreach approach                                 they were to canvas which included emergency rooms,
+for veterans in the previous PIT, extra resources were                             known locations of encampments, and other hard-
+made available to conduct assessments of veterans                                  to-reach areas. The Chicago Park District assisted by
+in shelters and to engage with veterans identified on                              counting in parks with reported sightings of homeless
+the street and connect them to a housing provider.                                 persons. Further, both airport terminals were covered
+Finally, youth with previous episodes of homelessness                              by the Chicago Department of Aviation. The local U.S.
+were recruited to lead teams during an extended 24-                                Veterans Affairs staff also provided assistance at co-
+hour window on the night of the PIT count in order to                              lead agency sites and provided staff to count homeless
+identify and count homeless youth.                                                 individuals in the Jesse Brown VA Medical Center.
+Counting and Surveying Sheltered Homeless Persons                                  As safety and time allowed, unsheltered homeless
+DFSS program staff worked with all shelters to conduct                             persons were approached and asked to participate
+a comprehensive count of all homeless persons in                                   in a survey. On encounters where individuals were
+Chicago’s emergency shelters and transitional housing                              sleeping or refused to participate, information was
+that evening. All shelters were provided tally sheets                              gathered by observation. Homeless individuals were
+and a set of surveys, each with a unique number. A                                 counted regardless of whether or not they agreed to
+designated staff person or volunteer was responsible                               participate in the survey and/or count. In areas or
+for counting all homeless people staying at the shelter                            situations when the encounter was time sensitive,
+that evening using the tally sheet. In addition to the                             such as on the CTA, or when it was deemed too
+PIT count, shelters were also instructed to administer                             dangerous, such as an abandoned building or car, a
+a survey interview to no less than 10 percent of                                   “headcount” form was used to gather a count and
+individuals and/or families in the shelter on the                                  basic demographic information on each person.
+evening of the count randomly selected following                                   Appendix B & C shows the distribution of unsheltered
+DFSS guidelines. HMIS data was used for shelters                                   homeless individuals.
+that had complete demographic characteristics in
+the system. Data from the surveys were weighted to                                 The survey responses are self-reported and were
+produce estimates for the remainder of the sheltered                               indicated by the survey enumerator based on actual
+population (see Appendix A).                                                       responses received from the homeless person
+                                                                                   being interviewed. To ensure that individuals were
+Counting and Surveying Unsheltered Homeless                                        not counted twice, respondents were asked if they
+Persons                                                                            participated earlier in the night and to provide their
+DFSS partnered with homeless providers to conduct                                  initials. Further, each form is individually numbered
+a comprehensive street outreach count that covered                                 allowing for DFSS to log forms given to a shelter
+all public areas. The homeless service providers acted                             provider, co-lead agency, and specialized team as it
+as co-lead agencies responsible for hosting teams                                  relates to the geographical area assigned. All shelters,
+of volunteers at their site, making volunteer team                                 co-lead agencies and volunteers received training on
+assignments that included specific geographical                                    the process and how to complete the forms.
+areas of the city, and providing detailed instructions
+on how to complete the tally and survey. Volunteers                                Because homeless youth are not typically on the street
+were recruited from City staff, for-profit and nonprofit                           after hours, the duration of the PIT was extended from
+organizations, institutions of higher learning, and the                            midafternoon on the day of the count to dusk the next
+general public. Over 500 volunteers and staff helped                               day. Youth that have experience with homelessness
+conduct the count, which was more than in any                                      were recruited to lead teams. These youth-led teams
+previous year.                                                                     were trained on the survey and allowed to provide
+1
+ In 2017, the HMIS did not include domestic violence shelters, so only data from   input on which locations would be searched.
+the survey and tally sheets were used for this sheltered subpopulation.
+                                                                                                                                         3
+
+2017 Chicago Homeless Count & Survey
+Chicago Transit Authority (CTA) Count                             consecutive years. (See Figure 1). It should be noted
+In previous years, teams rode a sampling of Chicago               that 2012 did not include a count of unsheltered
+Transit Authority (CTA) vehicles during the hours of the          persons.
+count, tallying and surveying homeless persons they
+encountered. Teams would board mid-route, check                   Fig. 1: Total Homeless      Population
+                                                                                   Total Homeless Persons
+different cars, and then board another vehicle along                                 8,000
+the route. Beginning last year, teams of CTA personnel                                                                                                                     6,786
+                                                                                     7,000       6,715
+were stationed at the terminus points of the 24-hour                                                                6,240
+                                                                                                                                6,598
+                                                                                                                                                    6,279       6,294
+                                                                                                         5,922                                                                       5,889
+Red and Blue lines all evening. CTA operations dictate                               6,000                                                                                                     5,657
+
+
+
+
+                                                            Total Homeless Persons
+that riders must exit the bus or train at the end of the
+                                                                                                                                          4,988
+                                                                                     5,000
+
+line. Homeless individuals could be seen re-boarding                                 4,000
+
+the vehicles and thus were easily identifiable and                                   3,000
+counted at these points. Teams also tallied persons
+spending the night in major indoor transfer points in
+                                                                                     2,000
+
+                                                                                                                                       Sheltered
+the downtown and Loop stations.                                                      1,000
+                                                                                                                                       Population
+                                                                                        -                                                Only
+A team covering only a sample of vehicles along                                                  2005    2007       2009        2011      2012      2013        2014       2015      2016      2017
+                                                                                                                                                Year
+each route was not the best way to find homeless                  Source: 2005 - 2017 PIT Counts
+riders because it required estimating the number of               *2012 did not include a count of the unsheltered population.
+homeless missed on vehicles not covered. This end-
+of-the-line method has been determined to be more                  SHELTERED VERSUS UNSHELTERED
+accurate given that actual counts are conducted                   The 2017 count identified 4,096 homeless individuals
+on each vehicle arriving at the station rather than               residing in shelters and 1,561 unsheltered on the street
+just a sample, and this may account for some of the               or other locations not meant for human habitation
+variation in the unsheltered count from previous years.           (see Figure 2). The number of sheltered individuals
+Furthermore, tallying at terminus points reduces the              make up 72 percent of all homeless counted and
+likelihood of double-counting, as teams were able to              has decreased by 12 percent since 2016. In fact, the
+observe which individuals re-boarded vehicles.                    number of sheltered individuals is the lowest recorded
+Weather                                                           number of all of the PIT homeless counts. The number
+The 2017 PIT was conducted on the evening of Thursday             of unsheltered individuals has increased by 26 percent
+January 26th. The 2017 winter was uncharacteristically            and are 28 percent of the total homeless population
+mild for Chicago. According to Weather Underground,               documented. The results of the 2017 sheltered and
+temperatures on the night of the count ranged from                unsheltered count are both very similar to the pre-
+a high of 34F to a low of 27F with winds averaging                recession results of a decade ago in 2007.
+14 mph. This temperature is above average for this
+time of year and slightly warmer than temperatures                Fig. 2: Sheltered & Unsheltered
+                                                                                  Sheltered                Homeless
+                                                                                            & Unsheltered Homeless
+
+for the previous year’s count. This mild weather may                                  6,000
+                                                                                                                    5,356
+                                                                                                                                                  5,060
+                                                                                                                                                            5,329
+                                                                                                 4,988                                  4,988
+have resulted in a higher number of homeless persons                                  5,000
+                                                                                                         4,346
+                                                                                                                               4,873                                    4,731     4,646
+
+remaining outside when compared to colder years.                                      4,000
+                                                                                                                                                                                          4,096
+                                                                   Total Homeless
+
+
+
+
+RESULTS                                                                               3,000
+
+                                                                                                                                                                           2,055
+Number of Homeless                                                                    2,000          1,727     1,576              1,725
+                                                                                                                                                       1,219                         1,243
+                                                                                                                                                                                               1,561
+
+The 2017 PIT count identified a total of 5,657 homeless                               1,000
+                                                                                                                         884                                     965
+
+
+persons, a total decrease of 4 percent, which is smaller                                     -
+than the 13 percent decrease between the 2015 and                                                 2005       2007      2009    2011       2012    2013         2014     2015 2016
+                                                                                                                                                                        Sheltered
+                                                                                                                                                                                             2017
+                                                                                                                                             Year
+2016. This is the first time since adopting Chicago’s PIT                                                                                                               Unsheltered
+
+count methodology in 2005 that a total count of under             Source: 2005 - 2017 PIT Counts
+6,000 homeless persons has been recorded for two                  *2012 did not include a count of the unsheltered population.
+                                                                                                                                                                                                       4
+
+ 2017 Chicago Homeless Count & Survey
+
+ HOUSEHOLD STRUCTURE                                                                                                 and sheltered. (See Figure 5) These families had 217
+ Number of Households with children                                                                                  children for a combined total of 378 persons living
+ The PIT survey found 570 families living in shelters                                                                in households headed by parenting youth, which
+ with children (See Figure 3). This marks a 13 percent                                                               was a 16 percent decrease from last year. This also
+ decrease and the lowest number of families since                                                                    marked the third year that sheltered parenting youth
+ Chicago has been conducting counts under the current                                                                households decreased with a 22 percent decline from
+ methodology.                                                                                                        2016.
+
+ Fig. 3: Number of Families in Shelters                                                                              Fig. 5: Parenting Youth
+                                                Sheltered Families with Children
+                     900                          848                                                                 Parenting Youth Sheltered           Unsheltered
+                               774                                                   782
+                     800                                   729     740       730
+                                                                                             677     661
+                                                                                                                      Under Age 18                    0                 0
+                     700
+                                                                                                                      Age 18 to 24                  161                 0
+Number of Families
+
+
+
+
+                                         576                                                                 570
+                     600
+                     500
+                                                                                                                      Total                         161                 0
+                     400
+                                                                                                                     Source:2017 PIT Count/Survey
+                     300
+                     200
+                     100                                                                                             Homeless parenting youth are overwhelmingly female,
+                       0
+                               2005      2007     2009     2011    2012     2013     2014    2015    2016    2017    non-Hispanic and Black/African American (See Figure
+                                                                      Year                                           6, 7 and 8).
+ Source: 2005 - 2017 PIT Counts/Surveys
+                                                                                                                     Fig. 6: Gender of Parenting Youth
+ Individuals in Families                                                                                              Parenting Youth - Gender     % of Total
+ The number of persons within sheltered families has
+                                                                                                                      Male                                           5%
+ decreased by 10 percent from 2016. Along with the
+ number of families with children, the 1,966 individuals                                                              Female                                        95%
+ counted is the lowest amount ever recorded (See                                                                      Transgender                                    0%
+                                                                                                                     Source:2017 PIT Count/Survey
+ Figure 4). The average family size has slightly increased
+ from 3.25 to 3.45 in 2017.
+                                                                                                                     Fig. 7: Race of Parenting Youth
+ Fig. 4: Number
+           Number ofof  Individuals
+                     Individuals            in Families
+                                 in Family Households
+                                                                                                                      Parenting Youth - Race        % of Total
+                     3,000
+                                 2,651
+                                                   2,808                                                              White                                    3.7%
+                                                                                     2,581
+                     2,500                                  2,329 2,403      2,331
+                                                                                             2,195   2,178
+                                                                                                                      Black/African American                   93%
+                                          1,987
+                     2,000
+                                                                                                             1,966
+                                                                                                                      Other                                    1.2%
+    Individuals
+
+
+
+
+                     1,500                                                                                            Multiple Races                             2%
+                     1,000
+                                                                                                                     Source:2017 PIT Count/Survey
+
+                       500
+                                                                                                                     Fig. 8: Ethnicity of Parenting Youth
+                           0
+                                 2005     2007     2009     2011    2012     2013    2014    2015    2016    2017     Parenting Youth - Ethnicity     % of Total
+                                                                          Year
+                                                                                                                      Non-Hispanic/Latino                           93%
+ Source: 2005 - 2017 PIT Counts/Surveys
+                                                                                                                      Hispanic/Latino                                7%
+                                                                                                                     Source:2017 PIT Count/Survey
+ Parenting Youth
+ In 2017, 26 percent of homeless families were
+ parenting youth households (parents or legal
+ guardians of children who were not accompanied by
+ an adult household member over age 24). The total of
+ 161 parenting youth includes 150 youth with children
+ and 11 partners, all between the ages of 18 and 24
+                                                                                                                                                                        5
+
+2017 Chicago Homeless Count & Survey
+
+Single Persons                                                                                          Gender
+The 2017 PIT identified a total of 3,687 single homeless                                                The gender distribution for the sheltered population
+persons not living with families. This is only 7 more                                                   has slightly shifted with the female population rising
+single homeless persons than counted in 2016. Of                                                        by 3 percent and the male population falling by 3
+the individuals not in family households, 2,136 were                                                    percent. The gender of the unsheltered population
+in shelters and 1,551 were found in unsheltered                                                         stayed consistent from last year with males making
+conditions. Mirroring the total homeless numbers,                                                       up a dominant 83 percent of all individuals. (See
+the sheltered individual count has decreased while                                                      Figures 10 &11) Similar to last year, 0.4 percent of
+the unsheltered individual count has increased (See                                                     the sheltered and 0.6 percent of the unsheltered
+Figure 9).                                                                                              population identified as transgender or reported not
+                                                                                                        identifying as any gender.
+Fig. 9: Number of Individuals not in Families
+                                 Individuals not in Family Households
+              3,000
+                                                                                                        Fig. 10: Sheltered Population by Gender
+                                                                                                                        Gender of Sheltered Persons
+                                                        2,729 2,748
+                                    2,548 2,544 2,585                      2,536 2,464
+                      2,337 2,359                                                                                          70%          65%
+              2,500
+                                                                                           2,136                                 59%            57%     58%       57%     57%    58%         57%      57%
+                                                                            2,032                                          60%                                                                                  54%
+              2,000     1,701                                                                                              50%                                                                                       46%
+
+
+
+                                                                                                        Percent of Total
+Individuals
+
+
+
+
+                                              1,634                                            1,551                                                  43%     42%     43%      43%     42%       43%         43%
+                                1,511                                                                                              41%
+              1,500                                                                    1,216                               40%             35%
+                                                             1,197
+                                                                     951                                                   30%
+              1,000                     794
+                                                                                                                           20%
+               500
+                                                                                                                           10%
+                 -                                                                                                         0%
+                      2005 2007 2009 2011 2012 2013 2014 2015 2016 2017                                                          2005 2007 2009 2011 2012 2013 2014 2015 2016 2017
+                                                                           Sheltered
+                                                      Year                                                                                                              Year
+                                                                           Unsheltered                                                                                                  Male        Female
+Source: 2005 - 2017 PIT Counts
+*2012 did not include a count of the unsheltered population.                                            Source: 2005 - 2017 PIT Counts
+
+POPULATION DEMOGRAPHICS                                                                                 Fig. 11: Unsheltered Population by Gender
+                                                                                                                                                     Gender of Unsheltered Persons
+As done in the past, the counting of homeless persons                                                                     100%
+                                                                                                                                                                                           87%
+both in shelter and on the street was completed                                                                            90%
+                                                                                                                                 78%
+                                                                                                                                         82%     81%        80%       81%       82%                   84%          83%
+by hand by shelter staff and volunteers. The tally                                                                         80%
+                                                                                                                           70%
+                                                                                                       Percent of Total
+
+
+
+
+data allows for the tabulation of all gender, age,                                                                         60%
+race, veteran status, household size, and location of                                                                      50%
+                                                                                                                           40%
+homeless persons. In shelter, every household was                                                                          30%     22%         18%      19%     20%       19%        18%                  16%         17%
+counted on a tally. Shelter providers are required to                                                                      20%                                                                 13%
+                                                                                                                           10%
+maintain demographic data of persons residing in                                                                            0%
+their shelters on any given night. In 2017, for the first                                                                        2005    2007        2009     2011      2013    2014         2015      2016        2017
+                                                                                                                                                                        Year
+time Chicago was able to extract partial data from over                                                                                                                               Male       Female
+
+
+70 percent of the participating providers from the                                                      Source: 2005 - 2017 PIT Counts
+Homeless Management Information System (HMIS).                                                          *2012 did not include a count of the unsheltered population.
+Based on the results of 2017, Chicago anticipates
+improving the rate of shelters that will participate via                                                Age
+HMIS data in future counts.                                                                             Age distribution for the sheltered population closely
+                                                                                                        matched the 2016 count with the 41-60 and 17 and
+The following is demographic data collected in 2017                                                     under cohorts making up the greatest proportion. The
+and compared to previous counts.                                                                        ten percent increase in persons age 25-40 (from 28%
+                                                                                                        to 38 %) and 11 percent decrease in persons age 41-60
+                                                                                                        (from 58% to 47%) makes the unsheltered population
+                                                                                                        much younger than last year. (See Figure 12).
+                                                                                                                                                                                                                          6
+
+ 2017 Chicago Homeless Count & Survey
+
+ Fig. 12: Homeless Population by Age                                                                                                    While the percentage of Hispanic/Latino Origin
+                         50%                                                                          47%                               sheltered population increased one percent from last
+                         45%                                                                                                            year to 12 percent, the percentage of the unsheltered
+                         40%                                                  38%                                                       Hispanic/Latino Origin population has decreased from
+                         35%
+                                                                                              30%
+                                                                                                                                        13 to 6 percent. (See Figure 15)
+      Percent of Total
+
+
+
+
+                                  29%
+                         30%
+                         25%
+                                                                         20%                                                            Fig. 15: Hispanic  or Latino
+                                                                                                                                                      Percentage        Origin
+                                                                                                                                                                 of Hispanic or Latino Origin
+                         20%
+                                                                                                                                                           14%                                                              13%
+                         15%                         11%                                                                                                                          12%                                             12%
+                                                                                                                   10%11%                                  12%                                  11%
+                         10%                                                                                                                                                                                             11%
+                                                                                                                                                                                         10%            10%            10% 11%
+                                                            4%                                                                                             10%                     9%                          9% 9%
+                          5%
+
+
+
+
+                                                                                                                                        Percent of Total
+                                        0%                                                                                                                       8%
+                          0%                                                                                                                               8%     7%                       7%
+                                17 and under        18-24 years         24-40 years          41-60 years           60+ years                                            6%                                6%                        6%
+                                                                                                                                                           6%                5%
+                                                                           Age               Sheltered         Unsheltered
+
+ Source: 2017 PIT Counts                                                                                                                                   4%
+
+                                                                                                                                                           2%
+ Race & Ethnicity
+                                                                                                                                                           0%
+ Despite making up only about one-third of the city of                                                                                                           2005   2007      2009   2011   2012     2013 2014 2015 2016 2017
+ Chicago’s total population, the Black/African American                                                                                                                                               Year    Sheltered Unsheltered
+
+ representation remains high at 81 percent of sheltered                                                                                 Source: 2005 - 2017 PIT Counts
+ and 76 percent of unsheltered populations. Whites                                                                                      *2012 did not include a count of the unsheltered population.
+ compromise 12 percent of the sheltered population
+ and 23 percent of the unsheltered population. The                                                                                      Chronic Homeless
+ percentage of unsheltered African Americans rose by                                                                                    Homeless individuals and families are defined as
+ 4 percent while the number of unsheltered whites has                                                                                   chronic by HUD if they have a disability and either
+ decreased by 3 percent. (See Figure 13 & 14)                                                                                           have resided in emergency shelters, safe havens, or
+                                                                                                                                        places not meant for human habitation or have been
+ Fig. 13: Sheltered         Populationby
+                     Population
+                  Sheltered               Race
+                                      by Race
+                                                                                                                                        homeless continuously for at least one year or on four
+                   90%
+                                       76%
+                                               80%        79%        78%      76%        76%          76%
+                                                                                                                79%        81%          separate occasions in the last three years where the
+                   80% 73%
+                   70%
+                                                                                                                                        combined length of time homeless on those occasions
+                                                                                                                                        was at least 12 months. HUD modified this definition
+Percent of Total
+
+
+
+
+                   60%
+                   50%                                                                                                                  prior to the 2016 PIT with the most significant change
+                   40%                                                                                                                  being the combining of homeless episodes to arrive
+                   30%           15% 15%       20%                         20%      22%        22%        21%        17%
+                                                                                                                                        at the combined length of time homeless. Chicago
+                                          17%
+                   20%         12%     9%
+                                                                                                                                12%     modified its survey questions so interviewers would
+                   10%                      3%                                                               4%          4%       6%
+                                                1%                         2%           2%       2%                                     ask homeless persons about the number of episodes
+                         0%
+                               2005     2007    2009        2011      2012       2013        2014      2015       2016        2017      and duration of those episodes to determine if the
+                                                                           Year          Black            White            Other        person is chronically homeless. The end result is that
+ Source: 2005 - 2017 PIT Counts
+                                                                                                                                        many homeless persons surveyed did not meet the 12
+ Fig. 14: Unsheltered   Population
+                 Unsheltered             by
+                             Population by    Race
+                                           Race
+                                                                                                                                        month requirement.
+                         90%
+                         80%   73%      74%         76%        77%
+                                                                           73%        74%           72%        72%
+                                                                                                                           76%          Based on volunteer feedback and provider input, the
+                         70%                                                                                                            questions used to determine chronic homelessness
+      Percent of Total
+
+
+
+
+                         60%
+                         50%
+                                                                                                                                        were reviewed to ensure that Chicago was accurately
+                         40%                                                                                                            enumerating this vulnerable population. It was
+                         30%                           23%           22%       25%        24%          23%         26%
+                                                                                                                                23%     determined that shelter staff and volunteers needed
+                                 17%         18%
+                         20%
+                                   10%         8%                                                                                       better training to ensure that interviewers understood
+                         10%                                                                              5%
+                         0%
+                                                          1%         1%          2%           2%                      2%           1%   the underlying importance of the questions and
+                                2005     2007        2009        2011        2013       2014          2015        2016        2017      subsequently how to ask them in the course of an
+ Source: 2005 - 2017 PIT Counts
+                                                                             Year             Black          White            Other
+                                                                                                                                        interview to illicit more accurate responses. The
+                                                                                                                                                                                                                                        7
+
+2017 Chicago Homeless Count & Survey
+
+resulting increase in the number of chronically                veterans, HUD, the U.S. Department of Veteran
+homeless was expected given the estimate of chronic            Affairs, Corporation for Supportive Housing and the
+homelessness in HMIS.                                          Chicago Housing Authority. At the time of the PIT in
+                                                               January 2017, the number of veterans on the by-name
+Taking this into consideration, the 2017 numbers were          list was nearly equal to the number counted. This level
+more than twice the 2016 count, which estimated                of accuracy is testimony to the service providers that
+343 chronically homeless persons with 110 living               worked to develop and maintain the known persons
+in shelters and 233 unsheltered. In 2017, the total            on the by-name list.
+number is 863 with 291 in shelter and 572 unsheltered.
+The number of chronic identified in 2017 in a shelter          Figure 17 demonstrates the military era and age of
+is only 7 percent but 37 percent of the unsheltered            homeless veterans in Chicago. Nearly one-third of
+population, which is slightly higher than 2015 (33%),          veterans in shelter and on the street are from the
+before the questions were modified. These rates                Vietnam War. As both the largest and oldest group,
+correspond with reports from street outreach and               they are also the most vulnerable.
+shelter service providers.
+                                                               Fig. 16: Homeless Veterans
+                                                                                   Veteran Population
+Chronic homelessness among veterans increased                                  30%
+                                                                                                                                     26%
+                                                                                                                                                 27%
+from less than one percent in 2016 to 2.3 percent                              25%
+in 2017. This year marks the first year with chronic        Percent of Total
+                                                                               20%              18%
+                                                                                                                                                          19%
+families identified during the count. One chronic                                     16%
+                                                                                                        14%
+                                                                                                               15%
+                                                                                                                                                                      16%    16%
+                                                                               15%          13%                                            13%
+family was found in shelter and one on the street.                                                                             12%                     12%       12%
+                                                                                     9%
+Based on the results, the improvements made to                                 10%                    8%      8%        8%                                                  7%
+training both shelter staff and volunteers was the                              5%
+
+correct approach as Chicago continues to improve its                            0%
+surveying techniques each year.                                                      2005      2007    2009   2011      2012        2013     2014        2015     2016      2017
+                                                                                                                              Year         Sheltered         Unsheltered
+
+
+Veterans                                                       Source: 2005 - 2017 PIT Counts
+The PIT data collection on veterans has evolved over           *2012 did not include a count of the unsheltered population.
+time, and has been used to effectively plan for achieving
+“functional zero” – the term used to describe a point                             Veterans
+                                                               Fig. 17: HomelessVeteran PopulationBy  Era
+                                                                                                  by Era
+in time when available permanent housing resources                             35%
+                                                                                     31%32%
+exceed the number of veterans at risk of becoming                              30%
+
+homeless. Chicago amended its methods of counting                              25%
+                                                            Percent of Total
+
+
+
+
+                                                                                                  21%          21%
+veterans in 2013 which improved its accuracy through                           20%                   18%          18%                            17%
+
+the interview questions used to determine veteran                              15%
+                                                                                                                                    11%            11%                11%
+status. In 2014, community partners came together to                           10%
+                                                                                                                               5%                                5%
+pool resources for the Ending Veteran Homelessness                             5%
+
+Initiative. The creation of a by-name list of homeless                         0%
+                                                                                     Vietnam    Post Vietnam Persian Gulf Afghanistan             Iraq           Other
+veterans both in shelter and on the street currently                                                                    Era          Sheltered     Unsheltered
+resides in HMIS.
+                                                               Source: 2005 - 2017 PIT Counts
+                                                               *2012 did not include a count of the unsheltered population.
+Figure 16 demonstrates the impact on veteran
+homelessness over the short time span. From 2016               HOMELESS YOUTH
+to 2017, total homelessness among veterans has                 Unaccompanied Youth
+decreased by 10 percent. The number of veterans in             Since 2013, Chicago has been working with its partners
+shelter has diminished due to the amount of housing            to develop a methodology to determine the number
+resources available for veterans from Chicago’s                of homeless youth in need of shelter, stable housing,
+partners including the many providers that serve               or intervention. Most unaccompanied youth without
+                                                                                                                                                                                   8
+
+2017 Chicago Homeless Count & Survey
+
+stable housing options are distrustful of typical service   are largely black/African American and Non-Hispanic.
+systems such as schools, justice or other governmental      (See Figure 20 & 21)
+programs, and homeless service providers that are
+geared more toward serving only families or adults.         Fig. 19: Gender of Unaccompanied Youth
+A very resourceful group, many do not seek shelter           Gender                 Count   Percent
+services at night or stay out after hours. Instead, they
+often utilize their social network of friends and family     Female                               94        34%
+to find a bed for the night. Some even exchange sex          Male                               176       63.5%
+for temporary living or housing options.
+                                                             Transgender                           6        2.2%
+Based on previous success and during the Voices of           Don’t identify as male,               1       0.4 %
+Youth Count lead by Chapin Hall in the summer of 2016,       female or transgender
+Chicago trained and deployed currently homeless             Source:2017 PIT Count/Survey
+youth to lead canvass teams during the 2017 PIT.The
+advantage of having youth-led teams is twofold. First,      Fig. 20: Race of Unaccompanied Youth
+the youth recruited possess the knowledge to find            Race                  Count    Percent
+other homeless youth and how to identify them. Still,
+many homeless youth do not want to disclose exactly          White                                52      18.8%
+where these “friends” could be found. Therefore,             Black/African American             211       76.2%
+the locations where the teams went or interviewed
+youth were not tracked or mapped. Second, the youth          Native American/Alaskan               0         0%
+response was more positive when interviewed by a             Native
+peer than an adult volunteer.                                Multiple Races                        1        0.4%
+                                                             Other                                 0          0%
+Of the total unaccompanied youth counted in the PIT,
+                                                             Don’t know                           13        4.7%
+64 were unsheltered. This is an increase from the 28
+counted in 2016 but not as high as the 121 counted          Source:2017 PIT Count/Survey
+in 2015. The 213 unaccompanied youth in a shelter
+that night and reported to HUD marked a 24 percent          Fig. 21: Ethnicity of Unaccompanied Youth
+decrease from 2016. Overall, Chicago marked a 10             Ethnicity           Count     Percent
+percent decrease in unaccompanied youth from 309             Hispanic/Latino                 46         16.6%
+in 2016 to 277 in 2017.(See Figure 18)
+                                                             Non-Hispanic/                  231         83.4%
+Fig. 18: Unaccompanied Youth                                 Latino
+ Unaccompanied   Sheltered   Unsheltered                    Source:2017 PIT Count/Survey
+ Youth
+ Under Age 18              0             3                  Supplemental Youth Count (SYC)
+                                                            Recognizing that youth can be difficult to track, the
+ Age 18 to 24                     213                61     hours of the count were extended for the purposes of
+ Total                            213                64     identifying homeless youth.The supplemental youth
+Source:2017 PIT Count/Survey                                count (SYC) began at 3 PM the day of the count and
+                                                            extended into the next day. Youth count enumerators
+The majority of unaccompanied youth counted in the          tallied a total of 35 individuals and surveyed 68 for
+PIT were age 18 to 24(See Figure 18),and are male           a total of 103 people. Similar to the unaccompanied
+(63.5%) with females making up only 34 percent of this      youth, a majority of the youth in the SYC were between
+population. The percentage of transgender youth has         18 and 24 years old, non-Hispanic, and black/African
+decreased from 5 percent last year to 2.2 percent this      American (See Figures 22, 24 & 25).
+year. (See figure 19) Also, the unaccompanied youth
+                                                                                                                9
+
+2017 Chicago Homeless Count & Survey
+
+The majority of the SYC population are also male (See   Fig. 26: Location Night of Count (SYC)
+Figure 23), which was similar to unaccompanied youth     Where are you going to stay tonight? Percent
+but in contrast to parenting youth.                      Emergency or Transitional Shelter         50.0%
+                                                         With family/guardian/friends but not      20.1%
+Fig. 22: Age of Youth (SYC)
+                                                         living there/can’t stay (doubled up,
+ Age                     Count             Percent       couch surfing)
+ Under 18                        0             0.0%      Didn’t know                                7.4%
+ 18-24                         100            97.1%      Outside                                    5.9%
+ 25-40                           2             1.9%      Other                                      5.9%
+ Unknown                               1       1.0%      On the CTA                                 4.4%
+Source:2017 Supplemental Youth Count
+                                                         Refused to answer                          4.4%
+Fig. 23: Homeless Youth Gender (SYC)                     Church or Charitable Organization          1.9%
+                                                        Source:2017 Supplemental Youth Count
+ Gender                            Percent
+ Female                                    31.1%        Fig. 27: Location Before Homelessness (SYC)
+ Male                                      65.0%         Location before Homeless            Percent
+ Transgender                                2.9%         With family permanently                  33.3%
+ Don’t identify as male, female or          1.0%         With family temporarily                  17.4%
+ transgender                                             Refused to answer                        16.1%
+Source:2017 Supplemental Youth Count
+                                                         With friends temporarily                 11.6%
+Fig. 24: Homeless Youth Race (SYC)                       Foster/group home                         5.9%
+ Race                           Percent                  Place owned/leased (with or without       5.9%
+                                                         subsidy)
+ White                                        18.7%
+                                                         With friends permanently                  4.4%
+ Black/African American                       74.8%
+                                                         Other                                     4.4%
+ Native American/Alaskan Native                1.9%     Source:2017 Supplemental Youth Count
+ Multiple Races                                0.0%
+ Other                                         1.9%     Seventeen percent of homeless youth reported
+ Don’t know                                    2.9%     having a mental health condition while 11.3 percent
+Source:2017 Supplemental Youth Count                    conveyed that they had some form of disability.
+                                                        While 38.2 percent of homeless youth have
+Fig. 25: Homeless Youth Ethnicity (SYC)                 conditions that require medical assistance, only 26.5
+ Ethnicity                    Percent                   percent reported using Medicare/Medicaid. (See
+                                                        Figures 28 & 29)
+ Hispanic/Latino                        13.6%
+ Non-Hispanic/Latino                    84.5%           Fig. 28: Homeless Youth Characteristics(SYC)
+ Don’t know                              1.9%            Population Characteristics: Percent
+Source:2017 Supplemental Youth Count
+                                                         Mental Health Condition               17.6%
+Half of the youth in the SYC reported that they were     Substance Use                         10.3%
+going to be staying in an emergency or transitional      Developmental Disability               5.9%
+shelter the night of the PIT and one in five youth       Physical Disability                    4.4%
+stated that they would be staying with friends or       Source:2017 Supplemental Youth Count
+family. Before homelessness, 50.7% of homeless youth
+were staying with their families either permanently/
+temporarily. (See Figures 26 & 27).
+                                                                                                           10
+
+2017 Chicago Homeless Count & Survey
+
+Fig. 29: Youth Assistance Usage (SYC)                                                          Fig. 31: Recieved  Mental
+                                                                                                               Received MentalHealth    Services
+                                                                                                                               Health Services
+                                                                                                                   50%                     47%
+ Program/Assistance Usage          Percent                                                                         45%
+
+ LINK/Food Stamps                       52.9%                                                                      40%
+                                                                                                                                                                                             34%
+
+
+
+
+                                                                                             Percentage of Total
+                                                                                                                   35%
+ Medicare/Medicaid                      26.5%                                                                      30% 27%
+                                                                                                                                                   25%                          26%    26%         25%      25%     25%
+                                                                                                                                                                                                                          28%
+
+                                                                                                                   25%                                                 22%                                      23%
+ SSI                                     7.4%                                                                      20%
+                                                                                                                                                 19%
+                                                                                                                                                            21%
+                                                                                                                                                                    19%                                19%
+                                                                                                                                                                                                          20%
+                                                                                                                                                                                                                       19%
+
+ WIC                                     4.4%                                                                      15%                                         13%
+
+                                                                                                                   10%
+ Food Pantry usage                       4.4%                                                                             5%
+
+ Unemployment benefits                   2.9%                                                                             0%
+                                                                                                                                          2005    2007       2009       2011    2012     2013      2014      2015        2016     2017
+
+ SSDI                                    1.5%                                                  Source: 2005 - 2017 PIT Counts
+                                                                                                                                                                                      Year           Sheltered         Unsheltered
+
+
+ Job training/placement services         1.5%                                                  *2012 did not include a count of the unsheltered population.
+Source:2017 Supplemental Youth Count
+                                                                                               Domestic Violence
+CHALLENGES TO HOUSING ACCESS                                                                   One-in-five sheltered and one-in-four unsheltered
+The survey includes a series of questions related to                                           homeless persons reported being a victim of domestic
+physical and mental health conditions and service                                              violence. This is almost the opposite of last year’s
+access. The purpose is to understand challenges and                                            figures. (See Figure 32)
+needs among the across homeless populations. It is
+important to note that these data are self-reported                                            Fig. 32: Domestic Violence      Victims
+                                                                                                                 Domestic Violence Victims
+                                                                                                                                                                                 33%
+by the individual being interviewed and represent a                                                                  35%
+                                                                                                                                          31%
+                                                                                                                                                  29%                                    29%
+subset of the total homeless population.                                                                             30%                    28%              27%        26%                          27%         27%
+                                                                                                                                                                                                                    25% 26%
+                                                                                                                                                                           23%                 23%                                      24%
+                                                                                                                     25%
+                                                                                             Percent of Total
+
+
+
+
+                                                                                                                                                       21%
+Substance Use                                                                                                        20%
+                                                                                                                                                                  20%                                     20%                   19%20%
+Eighteen percent of the sheltered population and                                                                     15%
+39 percent of the unsheltered population reported                                                                    10%
+receiving services for substance abuse (alcohol and/
+                                                                                                                             5%
+or drug use). The number of unsheltered persons
+                                                                                                                             0%
+receiving these services has increased by 11 percent                                                                                      2005    2007       2009        2011    2012     2013 2014 2015 2016                        2017
+while the amount the sheltered group has decreased                                                                                                                                     Year Sheltered Unsheltered
+by 4 percent. (See Figure 30)                                                                  Source: 2005 - 2017 PIT Count
+                                                                                               *2012 did not include a count of the unsheltered population.
+Fig. 30: Recieved  Services
+               Received              Substance
+                                 forSubstance
+                        Services for          Use Use
+                      80%    74%                                                               HIV/AIDS
+                      70%                                                                      Three percent of both sheltered and unsheltered
+                      60%                                                                      persons report having HIV/AIDS. This percentage is
+Percentage of Total
+
+
+
+
+                      50%                         45%           45%
+                                                                          40%          39%
+                                                                                               close to the figures reported on average in the last few
+                      40% 37%                                 34%                              years. (See Figure 33)
+                                     30%    27%
+                      30%          27% 29%26%                          28%        28%
+                                                        21%         23% 23%     22%
+                                                                                     18%
+                      20%                                                                                            HIV/AIDS
+                                                                                               Fig. 33: Persons WithPersons with HIV/AIDS
+                      10%                                                                                                            9%
+                                                                                                                                                                                             8%
+                                                                                                                                     8%
+                      0%                                                                                                                                                                        7%
+                                                                                                                                     7%
+                            2005   2007   2009   2011   2012 2013 2014 2015 2016 2017                                                        6%                                   6%
+                                                                                                               Percentage of Total
+
+
+
+
+                                                                                                                                     6%
+                                                           Year   Sheltered Unsheltered                                                    5%                 5% 5% 5%
+Source: 2005 - 2017 PIT Counts                                                                                                       5%
+                                                                                                                                                       4%                  4%                         4%                   4%
+                                                                                                                                     4%                                                                          4%
+*2012 did not include a count of the unsheltered population.                                                                                       3%                                                      3%         3%               3% 3%
+                                                                                                                                     3%
+                                                                                                                                                                                                                                2%
+                                                                                                                                     2%
+Mental Health Services                                                                                                               1%
+
+Nineteen percent of the sheltered population (the                                                                                    0%
+                                                                                                                                           2005    2007       2009       2011     2012    2013        2014        2015     2016        2017
+lowest since 2011) and 28 percent of the unsheltered                                                                                                                                   Year           Sheltered          Unsheltered
+
+population (the highest since 2013) reported receiving                                         Source: 2005 - 2017 PIT Counts
+mental health services in 2017. (See Figure 31)                                                *2012 did not include a count of the unsheltered population.
+                                                                                                                                                                                                                                         11
+
+   2017 Chicago Homeless Count & Survey
+
+   Disability                                                                                                         EMPLOYMENT STATUS
+   Sixteen percent of sheltered persons and 28 percent                                                               Twenty-five percent of the sheltered and 8 percent of
+   of unsheltered persons reported having a disability.                                                              the unsheltered population reported being employed.
+   These figures are 3 percent higher than last year.                                                                This marks a four percent increase among the
+   The rates of persons with disabilities in the homeless                                                            sheltered population, and a slight increase among the
+   population are higher than that of the City of Chicago                                                            unsheltered population from figures in the previous
+   which is 11% for those under age 65.                                                                              year. (See Figure 36)
+
+   Foster Care                                                                                                                           Status
+                                                                                                                     Fig. 36: EmploymentPercent
+                                                                                                                                         Percent Employed
+                                                                                                                                                Employed
+                                                                                                                                      30%
+   In 2017, 11 percent of sheltered adults and 10 percent                                                                             30%
+
+   of unsheltered adults report previously being in foster                                                                                         24%
+                                                                                                                                                    24%
+                                                                                                                                                                                                                  25%
+                                                                                                                                      25%
+                                                                                                                                      25%
+   care. These figures are consistent with the previous
+                                                                                                                                            20%
+                                                                                                                                            20%                                         20%20%          21% 21%
+   year’s report.                                                                                                                     20%
+                                                                                                                                      20%                                                        19% 19%
+
+
+
+
+                                                                                                                              Total
+                                                                                                                           ofTotal
+                                                                                                                                                               16%
+                                                                                                                                                              16%              16%16%
+                                                                                                                                      15%                               14%
+   Incarceration                                                                                                                              13%                     14%
+
+
+
+
+                                                                                                                    Percentof
+                                                                                                                                      15%     13%      12%
+                                                                                                                                                      12%
+
+
+
+
+                                                                                                                   Percent
+                                                                                                                                                                                                           11%
+   Forty-three percent of males and 19 percent of                                                                                     10%                        8%                             8%
+                                                                                                                                                                                                     11%
+                                                                                                                                      10%                       8%                      7% 8%                      7%
+   females in the sheltered population reported having                                                                                                                            7%                         7%
+                                                                                                                                                                                                                    8%
+
+   been in jail or prison at some point in their life. Both                                                                            5%
+                                                                                                                                      5%
+   of these figures have decreased in the past year with                                                                               0%
+   the male percentage dropping by 11 percent. The                                                                                    0%    2007    2009       2011     2012      2013     2014       2015       2016
+   unsheltered population that reported being in prison/                                                                                    2007    2009      2011
+                                                                                                                                                2012 Year
+                                                                                                                                                      2013 Sheltered
+                                                                                                                                                            2014 2015        2016
+                                                                                                                                                                     Unsheltered                                   2017
+                                                                                                                     Source: 2005 - 2017 PIT Counts Year Sheltered Unsheltered
+   jail has increased with the female population going up
+                                                                                                                     *2012 did not include a count of the unsheltered population.
+   by 13 percent. (see Figure 34 & 35)
+
+        Percent
+   Fig.34:      of Sheltered
+           Sheltered,
+        Percent of Sheltered Homeless Reporting
+                           Formerly
+                             Homeless  Incarcerated
+                                      Reporting Jail or
+                                                Jail or Prison
+                                                        Prison Time
+                                                               Time                                                   ACCESS TO SERVICES
+                   70%
+                  70%                61%           63%         62%                                                   Following the trend from the past few years, access
+                                   61% 60%60% 63% 60% 60%62%
+                   60% 54%
+                  60% 54% 54% 54%
+                                                                      51%
+                                                                       54%
+                                                                             54%                                     to Medicaid/Medicare continued to improve for both
+                   50%                                           51%                                                 the sheltered and unsheltered population in 2017.
+           of Total
+
+
+
+
+                  50%
+                                                                              43%
+                                                                                                                     Also, LINK/Food Stamp usage has notably increased
+        of Total
+
+
+
+
+                   40%                         34%
+                  40%                                             30%
+                                        27% 34%       28%  27%                                                       for both sheltered (up 7%) and unsheltered (up 8%)
+  Percent
+
+
+
+
+                   30%    25%    25%                         30%         25%    23%
+                                      27%          28% 27%
+Percent
+
+
+
+
+                  30%                                               25%
+                   20%
+                         25%   25%                                        23%
+                                                                                 19%
+                                                                                                                     populations. (See Figure 37 & 38) Note that figures
+                  20%
+                   10%                                                                                               represent the percentage of all homeless adults
+                  10%
+                    0%                                                                                               reporting access to services regardless of eligibility.
+                       0%     2005    2007     2009     2011     2012     2013        2014      2015    2016         For example, no unsheltered persons reported use of
+                                                              2012Year2013
+                             2005    2007    2009     2011                     2014
+                                                                               Male     Female 2016
+                                                                                       2015              2017
+                                                                                                                     WIC, however, almost all unsheltered persons were
+   Source: 2005 - 2017 PIT Counts Year                                         Male        Female
+                                                                                                                     not living in families with children and were thus
+   Fig. 35:  Unsheltered,
+         Percent                 Formerly
+                 of Unsheltered Homeless      Incarcerated
+                                         Reporting Jail or Prison Time
+                                                                                                                     ineligible.
+                       90%
+                                             77% 75%                                                                 Fig. 37: Share of Sheltered Population with
+                       80%                                    74%
+                       70%
+                             69%     69%               72%
+                                                          63%
+                                                                         69%                                         Access to Government Services/Benefits
+                                                                             58% 61%                   60%
+                                                                                                             58%           Sheltered                 2009      2011    2012     2013     2014     2015 2016        2017
+                                        55%
+    Percent of Total
+
+
+
+
+                       60%                                                                 52%
+                                                                                       48%
+                       50%                                                                    45%                          Benefit                        %      %       %         %       %         %       %          %
+                               39%                                 38%
+                       40%
+                                                                                                                           Food Stamps               60%        69%    67%       74%      72%     73%       66%    73%
+                       30%
+                       20%
+                                                                                                                           Medicaid or               24%        22%    25%       19%      23%     43%       48%    53%
+                                                                                                                           Medicare
+                       10%
+                       0%                                                                                                  SSI                       11%        11%    11%       11%      11%     12%       11%    14%
+                             2005     2007    2009     2011     2013     2014       2015      2016     2017
+                                                                                                                           SSDI                       5%        2%       na       9%      8%         8%      4%         5%
+                                                                Year         Male      Female
+   Source: 2005 - 2017 PIT Counts                                                                                          Unemployment               3%        5%      4%        2%      2%         1%      1%         1%
+
+   *2012 did not include a count of the unsheltered population.                                                      Source: 2009 - 2017 PIT Counts
+                                                                                                                                                                                                                        12
+
+2017 Chicago Homeless Count & Survey
+Fig. 38: Share of Unsheltered Population with                                  Location Before Experiencing Homelessness
+Access to Government Services/Benefits                                         In the 2017 PIT survey, respondents were asked where
+ Unsheltered       2009      2011   2012   2013   2014   2015   2016    2017   they were residing before they most recently became
+ Benefit                %      %      %      %      %      %      %       %    homeless. Just like last year, more than half (53%)
+ LINK/Food          18%      33%      na   41%    33%    41%    28%     36%    of sheltered persons reported staying with family or
+ Stamps                                                                        friends either temporarily or permanently. Close to
+ Medicaid or            3%    5%      na    3%     3%    11%    17%     19%    one third of the sheltered and unsheltered populations
+ Medicare
+                                                                               owned or leased a place before becoming homeless.
+ SSI                11%       9%      na    9%    10%    13%    13%     11%
+                                                                               While 13.6 percent of the unsheltered population
+ SSDI                   5%    2%      na    9%     8%     8%     4%      5%
+                                                                               was in jail or prison, only 3.9 percent of the sheltered
+ Unemployment           2%    7%      na   0.0%    2%     2%     1%      2%
+                                                                               population was prior to becoming homeless. (See
+Source: 2009 - 2017 PIT Counts                                                 Figure 40)
+*2012 did not include a count of the unsheltered population.
+
+                                                                               Fig. 40: Location Before Homelessness
+LOCATION OF HOMELESSNESS                                                        Location Before Current Homelessness
+Location of Unsheltered Homeless                                                2017 Response                        Sheltered   Unsheltered
+When asked where they were going to stay that                                   With family/friends temporarily         35.4%         27.3%
+evening, the greatest number (39.7%) of survey
+                                                                                Place you owned or leased               28.7%         33.3%
+respondents intended to stay anywhere outside which
+                                                                                With family/friends permanently         18.1%         15.2%
+is more than double the rate of persons who had that
+                                                                                Place you owned or leased with           4.3%          1.0%
+answer last year (15.3%). This high response may be                             subsidy
+attributed to the unseasonal warmth seen the day of
+the PIT count. At the same time, 18.8 percent were                              Jail or prison (incl. juvenile de-       3.9%         13.6%
+                                                                                tention facility)
+planning to stay on a CTA train/bus while another
+10.9 percent were temporarily staying with friend and                           Substance use treatment facility         2.4%          0.0%
+
+family. Respondents that stated they would spend the                            Hotel/motel                              1.9%          0.5%
+night in an emergency room (5.7%) or police station                             Hospital or medical facility             1.5%          1.5%
+(3.1%) would likely wait there for transport to shelter.                        Outside/place not meant for              1.1%          1.5%
+                                                                                habitation
+(See Figure 39)
+                                                                                Foster home or group home                0.2%          1.5%
+
+Fig. 39: Location Night of Count                                                Nursing Home                             0.2%          1.0%
+
+ Responses to “Where are you going to stay                 Percent              Other                                    0.0%          1.0%
+ tonight?                                                                       Abandoned Building                       0.0%          1.0%
+ Anywhere outside                                                      39.7%   Source:2017 PIT Count/Survey
+ On the CTA                                                            18.8%
+ Staying temporarily with family or friends but not
+ living there
+                                                                       10.9%
+                                                                               CONCLUSION
+ Hospital or Emergency Room                                             5.7%
+                                                                               Last year Chicago identified the lowest total number
+ Don't know                                                             5.7%
+                                                                               of homeless persons in over ten years. In 2017 that
+                                                                               figure decreased by another 4%. A significant portion
+ An abandoned building, vacant unit, or garage                          4.4%
+                                                                               of the decline was in shelters. The number of the
+ 24-hour restaurant/laundromat or other establish-                      3.5%
+ ment                                                                          homeless on the street has increased. The increase is
+ Police Station/ Jail                                                   3.1%   concentrated in a few community areas and on transit
+ A car or other vehicle                                                 1.7%   lines.
+ Hotel or motel                                                         1.3%
+ Airport                                                                0.9%   2017 marked the third year that the rate of sheltered
+ Refused to Answer                                                      0.9%
+                                                                               families decreased. Compared to 2016, families in
+ Church/Charitable Organization                                         0.4%
+                                                                               shelters decreased by 10 percent and youth-headed
+Source:2017 PIT Count/Survey                                                   families by 22 percent from 2016. Another significant
+                                                                                                                                          13
+
+2017 Chicago Homeless Count & Survey
+
+
+decrease in the shelter population was among veterans    APPENDIX A:SAMPLE WEIGHTING
+which decreased by 27 percent. The number of single      The shelter survey data, which is a sample, was
+households in shelter also decreased; however, the       extrapolated based on sample weights constructed
+number on the street increased. households in shelter    relative to the shelter/program response rate.
+also decreased; however, the number on the street        Although each shelter was instructed to interview 10
+increased.                                               percent of all clients on the night of the PIT count,
+                                                         practical considerations in many instances result in
+Since 2016, Chicago has seen a rise of street            a smaller or larger percentage of all residents being
+homelessness in specific areas. Similar to findings      interviewed. To account for this variation, shelter-
+in 2016, this year’s results show that locations         level weights were constructed in order to ensure that
+where unsheltered homeless persons are found             the representation of persons staying in each shelter
+continue to shift over time. This year, communities      during the 2017 count, relative to all shelter residents,
+in the downtown area and along the lakefront have        is correct. This method allows for inclusion of all
+more visible encampments and identified hot-spots        surveys collected in producing estimated percentages
+than 2016. See Appendix B for unsheltered data by        and reduces the impact of over and under sampled
+community area and ward.                                 sites (i.e. more or less than ten percent).
+
+Based on the survey, the proportion of those that said   The following procedure was used to construct these
+they would sleep outdoors rose to 40 percent from        weights:
+15 percent in 2016 whereas those saying they would
+seek shelter decreased by 10 percent. The homeless       1. The selection probabilities (f) for each shelter were
+found on CTA lines also increased from 2016 as did       first estimated: f = (n / N); where: n = total persons
+the number of respondents stating that they would be     interviewed within the shelter; and N = total tally of
+sleeping on the train lines.                             persons staying in the shelter the night of the count.
+
+                                                         2. Expansion weights (we) for each shelter were
+Currently, Chicago is in the implementation stages
+                                                         next estimated as the reciprocal of the selection
+of the Coordinated Entry System (CES) which              probabilities: we = (N / n).
+incorporates a universal standardized assessment for
+all homeless populations to be entered into HMIS. The    3. Relative weights (wr) for each shelter were
+system will be expanded to act as the communication      subsequently constructed as their expansion weight
+tool used by outreach and service providers to           divided by the mean of all expansion weights: wr=
+connect to housing opportunities. The disjointed and     [(we / (∑ we / n)].
+confounding points of entry into permanent housing
+                                                         4. Those persons interviewed outside of shelter
+programs will be eliminated creating a navigational
+                                                         settings were assigned a value of 1.0 for their relative
+entryway that prioritizes the most vulnerable for
+                                                         weight, as were those persons interviewed in a small
+effective and appropriate housing.By the end of 2017,
+                                                         number of shelters for which a complete tally was not
+all homeless populations, youth, families, etc., will    available.
+be assessed and housed through this system. The
+PIT is one measurement that will be used to gauge        Note that this weighting process was not applied to
+CES progress over time and its effect on reducing the    HMIS data for shelters that provided accurate HMIS
+duration of homelessness.                                data. HMIS data contains information collected during
+                                                         client intake about each client and thus represents
+                                                         a full census of the population characteristics for
+                                                         that shelter, not just a sample. If collected and
+                                                         reported correctly, this data can be more accurate
+                                                         than a sample. Shelters for which HMIS data was not
+                                                         available or usable relied on the survey sampling and
+                                                         weighting method described above
+                                                                                                               14
+
+2017 Chicago Homeless Count & Survey
+
+APPENDIX B : UNSHELTERED HOMELESS COUNT BY COMMUNITY AREA, 2015-2017
+                             2015              2016            2017                                 2015              2016            2017
+Community Area           #          %      #          %    #          %    Community Area       #          %      #          %    #          %
+ALBANY PARK                  6      0.7%       9    1.2%       1      0%   MORGAN PARK              0      0.0%       0    0.0%       0      0%
+ARCHER HEIGHTS               3      0.3%       0    0.0%       1      0%   MOUNT GREENWOOD          0      0.0%        0   0.0%       3      0%
+ARMOUR SQUARE                9      1.0%       11   1.4%   15         2%   NEAR NORTH SIDE          56     6.3%       65   8.4%   116     13%
+ASHBURN                      0      0.0%        1   0.1%       1      0%   NEAR SOUTH SIDE           0     0.0%        9   1.2%    12        1%
+AUBURN GRESHAM               26     2.9%       11   1.4%       3      0%   NEAR WEST SIDE       115      13.0%        60   7.8%    68        8%
+AUSTIN                       49     5.5%       23   3.0%   21         2%   NEW CITY                  6     0.7%        4   0.5%       4      0%
+AVALON PARK                  11     1.2%        1   0.1%       0      0%   NORTH CENTER              1     0.1%        1   0.1%       1      0%
+AVONDALE                      5     0.6%       43   5.6%   25         3%   NORTH LAWNDALE           15     1.7%       20   2.6%    38        4%
+BELMONT CRAGIN                8     0.9%        3   0.4%       7      1%   NORTH PARK                0     0.0%        5   0.6%       1      0%
+BEVERLY                       2     0.2%        0   0.0%       0      0%   NORWOOD PARK              1     0.1%        1   0.1%       1      0%
+BRIDGEPORT                    3     0.3%        3   0.4%       1      0%   OAKLAND                   1     0.1%        0   0.0%       2      0%
+BRIGHTON PARK                 3     0.3%        0   0.0%       6      1%   O’HARE                   22     2.5%       37   4.8%    24        3%
+BURNSIDE                      0     0.0%        2   0.3%       0      0%   PORTAGE PARK              3     0.3%        6   0.8%       4      0%
+CALUMET HEIGHTS               0     0.0%        0   0.0%       0      0%   PULLMAN                   0     0.0%        0   0.0%       0      0%
+CHATHAM                       2     0.2%       12   1.6%   11         1%   RIVERDALE                 0     0.0%        0   0.0%       0      0%
+CHICAGO LAWN                  7     0.8%        8   1.0%       1      0%   ROGERS PARK               9     1.0%        2   0.3%       1      0%
+CLEARING                      1     0.1%        0   0.0%       0      0%   ROSELAND                  3     0.3%        6   0.8%       2      0%
+DOUGLAS                       2     0.2%        1   0.1%       1      0%   SOUTH CHICAGO            17     1.9%        0   0.0%       3      0%
+DUNNING                       0     0.0%        3   0.4%       1      0%   SOUTH DEERING             4     0.5%        1   0.1%       0      0%
+EAST GARFIELD PARK           26     2.9%       13   1.7%   16         2%   SOUTH LAWNDALE            4     0.5%        5   0.6%       8      1%
+EAST SIDE                     2     0.2%        0   0.0%       0      0%   SOUTH SHORE              15     1.7%       14   1.8%       5      1%
+EDGEWATER                     3     0.3%        6   0.8%       8      1%   UPTOWN                   41     4.6%       73   9.4%    31        3%
+EDISON PARK                   0     0.0%        0   0.0%       0      0%   WASHINGTON HEIGHTS        5     0.6%        0   0.0%       0      0%
+ENGLEWOOD                     6     0.7%        6   0.8%   12         1%   WASHINGTON PARK          11     1.2%        0   0.0%       4      0%
+FOREST GLEN                   0     0.0%        0   0.0%       0      0%   WEST ELSDON               1     0.1%        1   0.1%       3      0%
+FULLER PARK                  14     1.6%       18   2.3%   28         3%   WEST ENGLEWOOD           16     1.8%        4   0.5%       7      1%
+GAGE PARK                     0     0.0%        3   0.4%       3      0%   WEST GARFIELD PARK       26     2.9%       12   1.6%       6      1%
+GARFIELD RIDGE                1     0.1%        3   0.4%       4      0%   WEST LAWN                 0     0.0%        0   0.0%       2      0%
+GRAND BOULEVARD               8     0.9%        1   0.1%       5      1%   WEST PULLMAN              0     0.0%        0   0.0%       4      0%
+GREATER GRAND CROSSING        1     0.1%        2   0.3%       2      0%   WEST RIDGE                1     0.1%        4   0.5%       3      0%
+HEGEWISCH                     0     0.0%        0   0.0%       0      0%   WEST TOWN                44     5.0%       27   3.5%    33        4%
+HERMOSA                       1     0.1%        1   0.1%       0      0%   WOODLAWN                  1     0.1%        0   0.0%    13        1%
+HUMBOLDT PARK                 7     0.8%        3   0.4%       6      1%
+HYDE PARK                    18     2.0%       10   1.3%       4      0%
+IRVING PARK                   6     0.7%        6   0.8%   10         1%
+JEFFERSON PARK                4     0.5%        2   0.3%       4      0%
+KENWOOD                       0     0.0%        0   0.0%       0      0%
+LAKE VIEW                    34     3.8%       20   2.6%   24         3%
+LINCOLN PARK                  6     0.7%       18   2.3%   22         2%
+LINCOLN SQUARE                7     0.8%        1   0.1%       3      0%
+LOGAN SQUARE                 16     1.8%       45   5.8%   44         5%
+LOOP                     131      14.8%        75   9.7%   165     18%
+LOWER WEST SIDE              38     4.3%       53   6.8%    45        5%
+MCKINLEY PARK                 1     0.1%        0   0.0%       0      0%
+MONTCLARE                     0     0.0%        0   0.0%       0      0%
+
+
+                                                                                                                                             15
+
+2017 Chicago Homeless Count & Survey
+
+APPENDIX C: UNSHELTERED HOMELESS COUNT BY WARD, 2015-2017
+              2015              2016              2017                    2015           2016           2017
+Ward      #           %     #           %     #          %     Ward   #        %     #        %     #          %
+1             31     3.5%        1     0.1%       12      1%   26       9     1.0%     9     1.2%     7         1%
+2             17     1.9%       25     3.2%       79      9%   27      84     9.5%    39     5.0%    52         6%
+3             25     2.8%       24     3.1%       49      5%   28      53     6.0%    39     5.0%    43         5%
+4             16     1.8%        9     1.2%       17      2%   29      16     1.8%    18     2.3%    12         1%
+5             20     2.3%        8     1.0%        6      1%   30       2     0.2%     0     0.0%     4         0%
+6              0     0.0%       11     1.4%       12      1%   31       4     0.5%     3     0.4%     9         1%
+7             21     2.4%        1     0.1%        1      0%   32      19     2.1%    69     8.9%    44         5%
+8             16     1.8%       16     2.1%        1      0%   33       8     0.9%    13     1.7%    10         1%
+9              3     0.3%        1     0.1%        0      0%   34       4     0.5%     2     0.3%     4         0%
+10             3     0.3%        1     0.1%        2      0%   35       8     0.9%    46     5.9%    16         2%
+11            22     2.5%       22     2.8%       28      3%   36       4     0.5%     1     0.1%     0         0%
+12             3     0.3%        3     0.4%        6      1%   37      28     3.2%     1     0.1%     2         0%
+13             2     0.2%        0     0.0%        1      0%   38       0     0.0%     5     0.6%     1         0%
+14             5     0.6%        1     0.1%        1      0%   39       5     0.6%     7     0.9%     0         0%
+15             1     0.1%        2     0.3%        5      1%   40       6     0.7%     0     0.0%     2         0%
+16            20     2.3%        8     1.0%        7      1%   41      23     2.6%    38     4.9%    25         3%
+17            24     2.7%       18     2.3%        8      1%   42     185    20.9%   120    15.5%   218        24%
+18             1     0.1%        1     0.1%        1      0%   43       1     0.1%     1     0.1%     1         0%
+19             2     0.2%        0     0.0%        3      0%   44      32     3.6%    18     2.3%    22         2%
+20            11     1.2%        8     1.0%       16      2%   45       4     0.5%     7     0.9%    13         1%
+21            12     1.4%        4     0.5%        8      1%   46      37     4.2%    53     6.8%    22         2%
+22             3     0.3%        1     0.1%        7      1%   47       7     0.8%     3     0.4%     4         0%
+23             0     0.0%        3     0.4%       12      1%   48       3     0.3%    27     3.5%    16         2%
+24            26     2.9%       29     3.7%       42      5%   49       9     1.0%     2     0.3%     1         0%
+25            49     5.5%       52     6.7%       43      5%   50       1     0.1%     4     0.5%     4         0%
+
+
+
+
+                                                                                                                16
+
+2017 Chicago Homeless Count & Survey
+
+
+
+
+Page left Blank on Purpose
+                                       17
+

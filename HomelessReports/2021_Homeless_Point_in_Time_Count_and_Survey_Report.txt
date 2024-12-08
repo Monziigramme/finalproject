@@ -1,0 +1,768 @@
+ City of Chicago 2021
+Homeless Point-in-Time
+Count & Survey Report
+
+
+
+
+Prepared by the Nathalie P. Voorhees Center for Neighborhood &
+   Community Improvement, University of Illinois at Chicago
+
+TABLE OF CONTENTS
+
+INTRODUCTION ................................................................................................................ 1
+ROLE OF PARTICIPATING AGENCIES AND CONSULTANT ................................................... 1
+METHODOLOGY................................................................................................................ 3
+CHICAGO’S POPULATION EXPERIENCING HOMELESSNESS ............................................... 5
+  POPULATION DEMOGRAPHICS ...................................................................................... 6
+  FAMILIES........................................................................................................................ 7
+  INDIVIDUALS.................................................................................................................. 9
+  YOUTH ......................................................................................................................... 10
+  CHARACTERISTICS OF POPULATION THAT CAN INFORM SERVICE NEEDS .................... 12
+CONCLUSION .................................................................................................................. 14
+APPENDIX: UNSHELTERED SAMPLING METHOD ............................................................. 15
+
+INTRODUCTION                                                 ROLE OF PARTICIPATING
+The 2021 Point in Time (PIT) count and survey of
+                                                             AGENCIES AND
+unsheltered and sheltered homeless persons in                CONSULTANT
+Chicago, led by the City of Chicago Department of
+Family and Support Services (DFSS), was modified to          Chicago Department of Family and Support
+accommodate health and safety concerns due to the            Services (DFSS)
+COVID-19 pandemic. While it took place on the                DFSS was responsible for coordinating the PIT count;
+evening of January 26, 2021, the unsheltered count           collecting survey and tally data; reviewing data
+was conducted over the course of several days up to          collection tools, data analysis, and reports produced
+January 29, 2021. A mandate by the U.S.                      by the consultant; and disseminating findings.
+Department of Housing and Urban Development
+(HUD), the intent of the PIT is to produce a picture
+                                                             All Chicago
+of Chicago’s homelessness at one moment in time.
+Data is collected annually to monitor trends over            All Chicago provided coordination assistance for the
+time and support the City, All Chicago, and the              PIT count; supplied HMIS data for the shelter count;
+Continuum of Care (CoC) in understanding the                 and provided input to survey development and
+housing and service needs of people experiencing             results of preliminary data analysis and findings.
+homelessness.
+                                                             All Chicago and DFSS chaired and staffed the CoC’s
+This report describes the methodology used to                PIT Subcommittee that reviewed the 2021
+conduct the 2021 PIT and presents findings on the            methodology and survey and provided input on data
+characteristics and experiences of individuals and           analysis.
+families experiencing homelessness.
+                                                             Lead & Other City Agencies
+This report does not delve into the driving factors          DFSS relied on outreach staff and lead agencies,
+behind the findings. However, it is critical to note         rather than the usual force of 500 plus staff and
+that homelessness is driven by a variety of systemic         volunteers, to participate in the unsheltered count.
+factors, including racism, economic inequality, and          Outreach teams involved in the count included
+inequitable access to services. Chicago’s crisis of          Featherfist, Haymarket, The Night Ministry, The
+people experiencing homelessness must be                     Salvation Army, and Thresholds. Other homeless
+understood in context of these broader dynamics.             service agencies also participated in the Count
+                                                             including Ignite and Howard Brown. The Chicago
+This report also does not present Chicago’s                  Police Department, Chicago Transit Authority,
+strategies and policies toward preventing and                Chicago Department of Aviation, and Chicago Park
+ending homelessness. Rather, it presents a “data             District assisted with planning and coverage. The
+snapshot” of homelessness in Chicago that should             U.S. Department of Veterans Affairs and U.S.
+be used as one tool in a larger toolbox to support the       Department of Housing & Urban Development also
+ongoing work of policymakers and service providers.          supported the count.
+
+
+
+
+                                                         1
+
+Consultant
+The Nathalie P. Voorhees Center for Neighborhood
+& Community Improvement at the University of
+Illinois at Chicago was contracted by DFSS to assist in
+completing the PIT count. This included:
+ Reviewing HUD guidance and recommending
+    how to address any required changes to the data
+    collected on the tally, in the survey or both;
+    coordination of the count; and/ or requirements
+    related to subpopulations such as chronic or
+    youth.
+ Advising DFSS staff on data entry and creating a
+    database to house the data.
+ Analyzing the data collected by DFSS and
+    producing the data tables required for
+    submission to HUD as part of the Homeless Data
+    Exchange (HDX).
+ Producing a final report on the methodology,
+    data,      and    analysis    of     populations,
+    subpopulations, and trends including data
+    beyond what is required for the HDX submission.
+
+
+
+
+                                                          2
+
+                                                                opt out of conducting an unsheltered count entirely,
+METHODOLOGY                                                     which several large cities did, including Los Angeles,
+                                                                San Francisco, Seattle, and Austin. The City of Chicago
+The 2021 methodology was approved by the PIT                    and CoC decided to conduct a survey-based count.
+Subcommittee and presented to the collaborative
+partners and Chicago Continuum of Care Board of                 Due to the risk of spreading COVID-19 and limited
+Directors. In response to the COVID-19 pandemic, the            capacity of the CoC community, Chicago utilized a
+Chicago PIT Count methodology was adapted to                    sampling approach rather than conducting a complete
+reduce risks of COVID spread and accommodate the                canvas of the city (See Appendix for details). The
+limited capacity of the CoC community.                          process also involved partners who specialize in
+                                                                serving veterans and youth for coverage of those
+Counting and Surveying in Shelters                              important         subpopulations         experiencing
+Chicago worked with all shelters to conduct a                   homelessness. DFSS relied on outreach staff, rather
+comprehensive count of all persons staying in                   than the usual force of 500 plus staff and volunteers,
+Chicago’s emergency and transitional shelters on the            to conduct counts that covered randomly selected
+night of the count. Chicago used the Chicago CoC                areas throughout the city.
+Homeless Management Information System (HMIS)
+data to obtain counts for most shelters. For those              Surveys were administered over multiple days rather
+shelters where HMIS data was unavailable, a                     than a single night in order to collect demographic
+                                                                information. Rather than the mix of observation and
+designated staff person was responsible for reporting
+                                                                survey in the previous counts, where the majority of
+all people staying at the shelter that evening in a tally
+                                                                individuals counted were by observation, the 2021
+spreadsheet. HMIS data accounted for 73 percent of
+                                                                unsheltered count was completely survey-based using
+persons staying in shelters on the night of the count           a weighted sample to estimate the total (See
+originated from HMIS. Tally spreadsheets were used              Appendix).
+to report information for the remaining 27 percent.
+                                                                Following HUD guidance, the approach yielded an
+In order to keep participants safe from COVID-19,               Official Estimate based on a count conducted by
+shelter staff followed COVID-safe practices when                outreach teams of residents who were willing to be
+surveying participants, including maintaining social            surveyed, identified themselves as experiencing
+distancing, wearing masks, and providing PPE.                   homelessness on the night of January 26, 2021, and
+                                                                affirmed that they slept in an unsheltered location on
+The sheltered count also looked different in the                that night.
+context of COVID-19 since shelters serving clients in
+congregate spaces reduced the number of active beds,            While this approach increased certainty about a
+in line with public health guidance. Chicago                    person’s homeless status, it also reduced the number
+implemented several solutions to partially restore bed          of people who were actually counted because only a
+capacity, so the sheltered count also included clients          fraction of those encountered were willing to
+served at alternate shelter locations and clients served        complete the survey and provide this information. The
+                                                                survey-based count resulted in a high non-response
+with hotel vouchers.
+                                                                rate compared to an observation-based estimate in
+Counting and Surveying in Unsheltered Locations                 2020.
+HUD released updated guidance allowing CoCs to
+                                                                When the requirement that only people who
+obtain an exception from some or all of the
+                                                                completed the survey was relaxed, we also estimated
+unsheltered PIT count requirements, including
+                                                                a Range Estimate of people who may have been
+permitting the use of a survey-based count in order to
+                                                                experiencing unsheltered homelessness. This included
+maximize safety. 1 HUD also allowed jurisdictions to
+
+1
+  https://www.hudexchange.info/resource/6213/conducting-
+the-2021-unsheltered-pit-count/
+                                                            3
+
+all people who responded to the survey AND all               Because of the one-night nature of the count,
+people who outreach teams engaged but who were               locations and visibility of those experiencing
+not willing to complete a survey.                            homelessness can vary depending on weather
+                                                             conditions and other factors. The 2021 PIT was
+Limitations                                                  conducted on the evening of Tuesday, January 26th.
+The 2021 PIT Count looked different than previous            The 2021 count was colder than the 2020 count (low
+years given the need to protect the health and safety        of 35F). According to Weather Underground,
+of all involved during the COVID-19 pandemic. The            temperatures on the night of the count hovered
+results of the 2021 PIT Count are not comparable to          around 25F from 10pm to 3am, with winds averaging
+past years due to methodology changes and unique             10-15 mph. During the unsheltered survey count from
+circumstances of COVID-19.                                   the 27th to the 29th, temperatures ranged from 26F to
+                                                             16F, 24F to 12F, and 32F to 20F, respectively.
+The PIT count captures a snapshot of people
+experiencing homelessness at a moment in time
+rather than everyone who experiences homelessness
+in a year. The PIT count does not capture everyone
+who experiences housing instability but rather focuses
+on those who meet HUD’s definition of homelessness.
+
+
+
+
+                                                         4
+
+CHICAGO’S POPULATION EXPERIENCING HOMELESSNESS
+The 2021 PIT Count estimated a total of 4,447                                         payments, increased housing and homeless
+people experiencing homelessness. The count                                           prevention resources, and client reluctance to
+identified    3,023     individuals   experiencing                                    access shared spaces.
+homelessness residing in shelters and an estimated
+702 to 1,454 people experiencing homelessness on                                      Fewer individuals were also counted on the street
+the street (See Figure 1).                                                            this year due to changes in methodology due to the
+                                                                                      pandemic, see Methodology section for detail. Key
+Fig. 1: Total Homeless Population, 2021*                                              changes included use of a survey-based count,
+ 5,000                                                                                rather than a mix of survey and observation;
+                                           4,477
+ 4,500
+                                                                                      counting in a sample of areas of the city, rather
+                                                                                      than a complete canvas; and counting over the
+ 4,000                                      752
+                                                                                      course of several days, including during daytime
+ 3,500
+                                            702                                       hours.
+ 3,000
+ 2,500
+                                                                                      SHELTERED AND UNSHELTERED
+ 2,000
+                                                                                      The 2021 count identified 3,023 homeless
+ 1,500                                     3,023                                      individuals residing in shelters and an estimated
+ 1,000                                                                                702 to 1,454 people experiencing homelessness on
+  500                                                                                 the street or other locations not meant for human
+    0                                                                                 habitation (See Figure 2). Including the
+                                           2015                                       unsheltered range estimate, the number of
+                                                                                      sheltered individuals made up 68 percent of all
+         Sheltered Unsheltered - Official Estimate Unsheltered - Range Estimate
+                                                                                      people counted, while the number unsheltered
+Source: 2021 PIT Count *2021 used a different                                         individuals accounted for 32 percent of all people
+methodology and did not include a comprehensive street                                counted, a slight increase compared to previous
+count of the unsheltered population
+                                                                                      years.
+The results of the 2021 PIT Count are not
+                                                                                      Fig. 2: Sheltered & Unsheltered Homeless
+comparable to past years due to methodology
+changes and unique circumstances of COVID-19.                                          100%
+The total number of people counted in the                                                                                      16.8%
+sheltered count and unsheltered count decreased
+from 2020 to 2021, but these do not necessarily                                         75%                                    15.7%
+reflect a decrease in homelessness.
+
+There are a couple key reasons that fewer people                                        50%
+were counted in shelter in 2021. Due to the
+pandemic, shelters with shared sleeping spaces                                                                                 67.5%
+were operating fewer beds to allow for safe                                             25%
+distancing in line with public health guidance. The
+City was operating several alternate shelter
+facilities to restore beds, but not to full pre-COVID                                   0%
+capacity. Shelter bed utilization was also lower                                                                                2021
+than previous years, particularly in shelters serving
+                                                                                              Sheltered Unsheltered - Official Estimate Unsheltered - Range Estimate
+families, due to potential factors such as the
+eviction      moratorium,      economic       stimulus                                Source: 2021 PIT Count
+
+                                                                                  5
+
+POPULATION DEMOGRAPHICS                                      Fig. 4: Race & Ethnicity*
+
+                                                                           Black                                              72.9%
+Demographic data was collected from 3,725 people
+experiencing homelessness (3,023 homeless
+                                                              White Non-Hispanic                 12.7%
+individuals residing in shelters and the Official
+Estimate of 702 individuals on the street) from all            Hispanic or Latino                12.0%
+household structures. Demographic data collected
+includes gender, age, race, and ethnicity.                                 Asian         1.0%
+
+Gender                                                                    AI/AN          0.5%
+Males continue to be the dominant gender group
+among the population making up just under 60                             NH/OPI          0.1%
+percent of all individuals (See Figure 3). Similar to
+last year, 0.2 percent of the population identified as                  Multiple         0.8%
+
+transgender. A small number of people identified
+                                                                                    0%     10% 20% 30% 40% 50% 60% 70% 80%
+as gender non-conforming.
+                                                             Source: 2021 PIT Count *All categories are mutually
+                                                             exclusive
+Fig. 3: Gender
+ 70%
+                                                             Age
+                     59.5%
+ 60%                                                         The age distribution has remained stable over the
+                                                             past few years. The 25-40 and 41-60 cohorts make
+ 50%                                                         up the greatest proportion of the age distribution.
+         40.3%                                               Individuals aged 18-24 comprise 9.5 percent of
+ 40%
+                                                             the population, while children account for 21.5
+ 30%                                                         percent of the overall population (See Figure 5).
+
+ 20%                                                         Fig. 5: Age
+                                                              40%
+ 10%
+                                0.2%          0.1%                                                               32.6%
+ 0%
+        Female       Male    Transgender   Gender Non-        30%
+                                           Conforming
+                                                                                                         23.5%
+Source: 2021 PIT Count                                                 21.5%
+                                                              20%
+Race & Ethnicity
+                                                                                                                          12.9%
+Despite making up about one-third of the city of
+Chicago’s     total    population,     Black/African                                     9.5%
+                                                              10%
+Americans are overrepresented at 73 percent of
+the homeless population. White Non-Hispanics
+comprise 12.7 percent of the homeless population.
+                                                              0%
+People of Hispanic or Latino origin accounted for 12
+                                                                     Under 18            18-24           25-40   41-60   Over 60
+percent. The percentages of African Americans and
+White Non-Hispanics have remained stable since               Source: 2021 PIT Count
+2017. (See Figure 4).
+
+The percentage of individuals of Hispanic/Latino
+origin is 12 percent, a slight increase over the rate
+from 2020.
+
+                                                         6
+
+FAMILIES                                                    Fig. 7: Family Heads of Household Gender
+                                                            by Race & Ethnicity*
+Number of Families with Children and Individuals
+                                                                                           Hispanic or    White
+in Families                                                 Gender             Black                                                Other           Total
+                                                                                             Latino    Non-Hispanic
+All    families   with     children    experiencing
+                                                            Male                  23                   4                     2            -             29
+homelessness on the night of the Count were
+                                                            Female               289                  47                    11                7        354
+counted in shelters. The figures below summarize
+                                                            Total                312                  51                    13                7        383
+data on the 383 families that were living in shelters
+with children. This is a decrease from 2020,
+however, this reflects shelter decompression,
+lower utilization rates, and other factors
+mentioned in previous sections. There were 1,238
+                                                             Female                                 289                             47
+individuals in families with children in 2021, a
+decline that mirrored the decrease in the absolute
+number of families (See Figure 6).
+
+Fig. 6: Number of Families with Children
+and Number of Individuals in Families                         Male        23
+ 1400
+                                            1,238
+ 1200
+                                                                      -          50        100      150       200    250          300         350     400
+ 1000
+                                                                                   Black     Hispanic or       White              Other
+                                                                                             Latino            Non-Hispanic
+  800
+                                                            Source: 2021 PIT Count *All categories are mutually
+  600                                                       exclusive
+                       383
+  400                                                       Fig. 8: Family Heads of Household Age
+  200
+
+    0                                                         Heads of
+                                                                                  26.4%                          58.0%                        15.1%
+                                2021                         Household
+
+                 Families    Individuals in Families
+
+Source: 2021 PIT Count                                                    0.0%         20.0%          40.0%         60.0%          80.0%            100.0%
+
+                                                                                            18-24     25-40     41-60       60+
+Approximately 75 percent of the heads of
+household in the 383 families with children are             Source: 2021 PIT Count
+Black females. About 12 percent of the heads of
+household in families with children are Latina (See
+Figure 7). A significant portion of heads of
+household are young – 27 percent are between 18
+and 24 years old. Another 58 percent are 25-40
+years old. Only 15 percent are 41 or older (See
+Figure 8).
+
+
+
+
+                                                        7
+
+Parenting Youth
+In 2021, 100 of the 383 homeless families were
+parenting youth households (parents or legal
+guardians of children who were not accompanied
+by an adult household member over age 24). 105 of
+the 106 parenting youth were between the ages of
+18 and 24 and all of them were in shelters (See
+Figure 9). These families had 137 children for a
+combined total of 243 persons living in households
+headed by parenting youth, which was a decrease
+from last year. As Figures 10 and 11 illustrate,
+parenting youth experiencing homelessness were
+overwhelmingly female        and Black/African
+American.
+
+Fig. 9: Age of Parenting Youth
+ Age                Sheltered  Unsheltered
+ Under Age 18           1          0
+ Age 18 to 24          105         0
+Source: 2021 PIT Count/Survey
+
+Fig. 10: Gender of Parenting Youth
+ Gender             Sheltered  Unsheltered
+ Female                101         0
+ Male                   5          0
+ Transgender            0          0
+ Unknown                0          0
+Source: 2021 PIT Count/Survey
+
+Fig. 11: Race of Parenting Youth
+  Parenting Youth - Race    % of Total
+  White                       4.7%
+  Black/African American     93.4%
+  Other                       1.9%
+Source: 2021 PIT Count/Survey
+
+Fig. 12: Ethnicity of Parenting Youth
+ Parenting Youth - Ethnicity  % of Total
+ Non-Hispanic/Latino            93.4%
+ Hispanic/Latino                6.6%
+Source: 2021 PIT Count/Survey
+
+
+
+
+                                                     8
+
+INDIVIDUALS                                                 Fig. 14: Individuals Gender by Race
+                                                            & Ethnicity
+                                                                                                                  White
+The 2021 PIT identified a total of 2,468 homeless                                                Hispanic or
+                                                            Gender                    Black                       Non-          Other       Total
+                                                                                                   Latino
+individuals, defined here as persons not living in                                                               Hispanic
+families with children. Individuals include members
+                                                            Female                      479               58             121         32       690
+of adult couples and families in which every
+member is over 18, in alignment with HUD                    Male                      1,180             203              293         93     1,769
+reporting standards. Of the individuals not in family
+households, 1,766 were in shelters and 702 were             Transgender                     4              0                2           1       7
+unsheltered. (See Figure 13).                               Gender
+                                                                                            2              0                0           0       2
+                                                            Non-Conforming
+                                                            Total                     1,665             261              416        126     2,468
+Fig. 13: Number of Individuals
+ 3,000
+
+
+ 2,500                                                               Black            479                      1,180
+
+                                702
+ 2,000
+                                                              Hispanic or
+                                                                          58 203
+                                                                Latino
+ 1,500
+
+                                                                White
+ 1,000
+                                                                          121 293
+                                                             Non-Hispanic
+                                1,766
+
+  500
+                                                                     Other       93
+
+    0
+                                2021                                         0                  500         1,000           1,500           2,000
+
+                    Sheltered    Unsheltered                                 Female           Male    Transgender      Gender
+                                                                                                                       Non-Conforming
+Source: 2021 PIT Count
+                                                            Source: 2021 PIT Count
+Of the 2,468 people experiencing homelessness not
+living in families, 91 percent were adults over the
+age of 24. The remaining 9 percent of these
+homeless individuals were age 18-24.
+
+The racial and ethnic composition of individuals
+experiencing homelessness not in families differs
+slightly from that of the overall population.
+Approximately 67 percent were Black/African
+American, 11 percent were people of Hispanic or
+Latino origin, and 17 percent were White Non-
+Hispanic. More than 72 percent of people
+experiencing homelessness not in families were
+male, a rate which was relatively consistent across
+racial and ethnic groups. Nine people identified as
+transgender or gender non-conforming (See Figure
+14).
+
+
+
+                                                        9
+
+YOUTH
+Unaccompanied Youth                                       This population was 58% male, 40% female, (See
+Since 2013, Chicago has been working with its             Figure 16), and largely Black/African American
+partners to develop a methodology to determine            and Non-Hispanic (See Figure 17).
+the number of youth experiencing homelessness.
+                                                          Fig. 16: Gender of Unaccompanied Youth
+Chicago typically collects data on young people
+experiencing homelessness in two ways: (1) youth
+                                                                           Female                               40.4%
+are counted as part of the overnight PIT Count and
+(2) supplemental data is collected by youth-led
+teams during extended hours before and after the
+count. However, this year the separate                                       Male                                         58.2%
+Supplemental Youth Count was forgone in order to
+minimize the risks of COVID spread.
+
+The total number of unaccompanied youth                              Transgender             0.5%
+counted in 2021 was 213. About 89 percent of
+these youths were residing in shelters, while the
+remaining 11 percent were unsheltered on the
+                                                           Gender Non Conforming             0.9%
+street or other locations not meant for human
+habitation. Of the unaccompanied youth tallied,
+nearly all of the sheltered and unsheltered youth                                      0%           20%    40%          60%       80%       100%
+were between 18 and 24 years of age. This was
+                                                          Source: 2021 PIT Count/Survey
+similar to 2020. (See Figure 15).
+                                                          Fig. 17: Race & Ethnicity of
+Fig. 15: Unaccompanied Youth
+                                                          Unaccompanied Youth
+  Unaccompanied
+                 Sheltered Unsheltered
+  Youth
+                                                                        Black                                                       80.3%
+  Under Age 18      17          0
+  Age 18 to 24      173        23
+                                                           White Non-Hispanic            6.6%
+  Total             190        23
+Source: 2021 PIT Count/Survey
+                                                            Hispanic or Latino                11.3%
+
+
+                                                                        Asian         0.5%
+
+
+                                                                       AI/AN          1.4%
+
+
+                                                                      NH/OPI          0.0%
+
+
+                                                                     Multiple         0.0%
+
+                                                                                 0%            20%        40%       60%           80%       100%
+
+                                                          Source: 2021 PIT Count/Survey
+
+
+
+
+                                                     10
+
+Chronic Homelessness                                     Due to changes in methodology given the need to
+Homeless individuals and families are defined by         protect the health and safety of all involved during
+HUD as experiencing chronic homelessness if they         the COVID-19 pandemic, information on chronic
+meet all of the following criteria:                      homelessness was omitted from the unsheltered
+     Are residing on the street/place not meant         survey.
+        for human habitation or emergency shelter
+     Have been continuously homeless for at             In 2021, 475 people in shelters were experiencing
+        least 12 months OR have at least four            chronic homelessness, or 16 percent of the
+        occasions of homelessness over the past          sheltered population.
+        three years totaling a minimum of 12
+                                                         While most chronic homeless are individuals not in
+        months
+                                                         families, 44 families in shelter were classified as
+     Have a disabling condition
+                                                         experiencing chronic homelessness in 2021. The
+                                                         proportion of adults who are veterans in shelters
+                                                         and experiencing chronic homelessness was 7.2
+                                                         percent in 2021.
+
+
+
+
+                                                    11
+
+CHARACTERISTICS OF POPULATION THAT CAN INFORM SERVICE NEEDS
+The PIT survey includes a series of questions related        The proportion of people experiencing
+to specific populations. The purpose is to                   homelessness reporting they were receiving, or
+understand the challenges and needs across                   that felt they would be helped by receiving,
+subpopulations experiencing homelessness. It is              mental health services was 19 percent for the
+important to note that all data is self-reported by          sheltered population in 2021, a slight increase
+the individual being interviewed and represents              from last year (See Figure 19).
+only a subset of all people experiencing
+homelessness in Chicago.
+                                                             Fig. 19: Received, or Feel Would Be
+Veterans                                                     Helped by Receiving, Services for
+                                                             Substance Use or Mental Health
+Chicago has focused on housing veterans through
+                                                              25%
+the Ending Veteran Homelessness Initiative which
+began in 2014 and coordinates housing resources               20%                                          19.2%
+available for veterans from Chicago’s partners
+including the many providers that serve veterans,             15%
+                                                                                  12.9%
+HUD, the U.S. Department of Veteran Affairs,
+Corporation for Supportive Housing and the                    10%
+Chicago Housing Authority.
+                                                              5%
+
+As seen in Figure 18, veterans accounted for around
+7.7 percent and 5.3 percent among sheltered and               0%
+                                                                                             2021
+unsheltered populations respectively, including
+                                                                              Substance Abuse          Mental Health
+171 veterans experiencing homelessness residing
+in shelters and 37 veterans experiencing                     Source: 2021 PIT Count
+homelessness on the street.
+                                                             Domestic Violence
+Fig. 18: Veterans                                            The PIT survey asks if the individual is being
+ 10%
+                                                             threatened or harmed by someone you know or is
+ 9%
+ 8%                 7.7%                                     fleeing a violent relationship. The portion of
+ 7%
+                                                             persons reporting domestic among the sheltered
+ 6%                                     5.3%
+                                                             population was 13 percent (See Figure 20).
+ 5%
+ 4%                                                          Fig. 20: Domestic Violence Victims
+ 3%                                                           14%                           13.1%
+ 2%
+                                                              12%
+ 1%
+ 0%                                                           10%
+                                2021
+                                                               8%
+                    Sheltered    Unsheltered
+
+                                                               6%
+Source: 2021 PIT Count
+                                                               4%
+Substance Use & Mental Health
+                                                               2%
+Almost 13 percent of the sheltered population
+reported receiving, or that felt they would be                 0%
+                                                                                                2021
+helped by receiving, services for substance use
+                                                                                          Sheltered
+(alcohol and/or drug use). The number of sheltered
+persons receiving, or that felt they would be helped         Source: 2021 PIT Count
+by receiving, these services has decreased by 6
+percent from 2020.
+                                                        12
+
+HIV/AIDS                                                   Disability
+About 1.7 percent of sheltered persons                     Almost 12 percent of people experiencing
+experiencing homelessness report having                    homelessness residing in shelters reported having
+HIV/AIDS. This percentage is similar to last year’s        a physical disability. Another 2.5 percent of
+rate (See Figure 21).                                      sheltered persons reported a developmental
+                                                           disability (See Figure 22).
+Fig. 21: People with HIV/AIDS                              Fig. 22: People with Physical or
+ 2%
+                                                           Developmental Disabilities
+                           1.7%
+                                                            14%
+
+                                                                               11.7%
+                                                            12%
+
+                                                            10%
+ 1%
+                                                            8%
+
+                                                            6%
+
+                                                            4%
+                                                                                                  2.5%
+ 0%                                                         2%
+                           2021
+                                                            0%
+                         Sheltered
+                                                                                         2021
+
+Source: 2021 PIT Count                                                        Physical   Developmental
+
+                                                           Source: 2021 PIT Count
+
+
+
+
+                                                      13
+
+CONCLUSION
+The 2021 PIT Count looked different than previous years given the need to protect health and safety of all
+involved from the spread of COVID-19. While pandemic precautions and methodology changes limit the
+ability to compare this year’s results with previous years, this year’s count still provides a valuable snapshot
+of people experiencing homelessness in Chicago.
+
+The 2021 PIT Count estimated a total of 4,447 persons experiencing homelessness. The count identified 3,023
+individuals experiencing homelessness residing in shelters and an estimated 702 to 1,454 people experiencing
+homelessness on the street. While this year’s counts are not comparable to 2020, the proportion of people
+experiencing homelessness residing in shelters (68%) versus those on the street, which includes
+encampments, 24-hour establishments, and CTA trains and buses, (32%) is similar to previous years.
+
+Black people continue to be overrepresented in the population experiencing homelessness in Chicago. While
+about one-third of Chicago’s total population is Black/African American, 73 percent of the homeless
+population are Black/African American.
+
+In 2021, an estimated 383 families with children were experiencing homelessness, all residing in shelters. The
+majority of these households (76%) are headed by Black females. Another 12 percent of the heads of
+household in families with children are Latina. A significant portion of these heads of household are young –
+27 percent are between 18 and 24 years old.
+
+The 2021 PIT Count identified a total of 2,468 homeless people not living in families with children, including
+members of adult couples and families in which every member is over 18. The racial and ethnic composition
+of people in these households has remained steady compared to previous years. Almost half (48%) of single
+people experiencing homelessness, or as a member of an all adult household, were Black males.
+
+The PIT Count is only one measurement used gauge progress in preventing and ending homelessness. It cannot
+capture the experience of all individuals and families experiencing homelessness in Chicago in a given year.
+However, along with HMIS data and data collected through the year from service providers and persons with
+lived experience, it provides critical information in helping the City, the CoC, and many partners make progress
+on the shared goal of making homelessness rare, brief, and non-recurring.
+
+
+
+
+                                                       14
+
+APPENDIX: UNSHELTERED SAMPLING METHOD
+ Chicago utilized a sampling approach rather than                       Depending on the subarea type, a weight was
+ conducting a complete canvas of the city. In                           attached to account for the sampling used. The
+ consultation with academic partners at the                             weight for the sampled subareas is the inverse of
+ University of Illinois Chicago, DFSS used location                     the probability of being selected for the sample,
+ data from the 2020 PIT unsheltered count to divide                     calculated as the total number of subareas in the
+ the CoC geography into subareas to sample.                             sampling category divided by the number selected
+ Following HUD’s guidance, this data was used to                        for the sample.
+ categorize Chicago’s 801 Census Tracts into four
+ subarea types based on the density of people                           Following HUD guidance, the approach yielded an
+ experiencing homelessness in 2020: Certainty (30+                      Official Estimate based on a count conducted by
+ people plus the Loop and CTA); High (10-30);                           outreach teams of residents who were willing to be
+ Medium (1-9); and Rare (0) (See Figure 25).                            surveyed, identified themselves as experiencing
+                                                                        homelessness on the night of January 26, 2021, and
+ Fig. 25: Unsheltered Sampling Approach                                 affirmed that they slept in an unsheltered location
+                                                                        on that night.
+
+                                                                        While this approach increased certainty about a
+                                                                        person’s homeless status, it also reduced the
+                                                                        number of people who were actually counted
+                                                                        because only a fraction of those encountered were
+                                                                        willing to complete the survey and provide this
+                                                                        information. The survey-based count resulted in a
+                                                                        high non-response rate compared to an
+                                                                        observation-based estimate in 2020.
+
+                                                                        When the requirement that only people who
+                                                                        completed the survey was relaxed, we also
+                                                                        estimated a Range Estimate of people who may
+                                                                        have      been      experiencing      unsheltered
+                                                                        homelessness. This included all people who
+                                                                        responded to the survey AND all people who
+                                                                        outreach teams engaged but who were not willing
+                                                                        to complete a survey (See Figure 26).
+
+
+
+
+ Fig. 26: Unsheltered Sampling Results
+              Subarea               Census          2020           Tracts        Sample      Official    Range
+              Type                   Tracts     Count (%)*       Sampled         Weight     Estimate    Estimate
+              Certainty
+              (30+, Loop/CTA)               9     721 (48.2%)           100%        1.000         148        148
+              High
+              (10-30)                      17     301 (20.1%)           100%        1.000          27         62
+              Medium
+              (1-9)                      189      473 (31.6%)            50%        1.989         110        271
+              Rare
+              (0)                        586            0 (0%)           10%        9.932         417        973
+              Total                      801          1,495            22.5%           —          702      1,454
+              *this does not include 34 people with no location data, total N=1,529
+
+
+                                                                 15
+
